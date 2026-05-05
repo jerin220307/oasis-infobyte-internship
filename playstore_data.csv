@@ -1,0 +1,1001 @@
+App,Category,Rating,Reviews,Size_MB,Installs,Type,Price,Content_Rating,Genres,Sentiment
+App_1,Finance,2.0,63746,51.7,"1,000,000+",Free,0.0,Mature 17+,Art & Design,Positive
+App_2,Communication,2.1,265898,80.8,"100,000+",Free,0.0,Everyone,Photography,Negative
+App_3,Shopping,1.8,482338,46.5,"100,000+",Free,0.0,Mature 17+,Photography,Positive
+App_4,Tools,4.5,805275,6.1,"50,000+",Free,0.0,Mature 17+,Food & Drink,Neutral
+App_5,Photography,4.0,834900,78.8,"100,000+",Free,0.0,Teen,Comics,Negative
+App_6,Food & Drink,1.2,745485,,"50,000+",Free,0.0,Everyone,Social,Neutral
+App_7,Shopping,2.1,729632,26.6,"5,000,000+",Free,0.0,Teen,Music,Neutral
+App_8,Education,1.1,924045,17.3,"10,000+",Free,0.0,Everyone,Entertainment,Positive
+App_9,Finance,3.0,119835,33.7,"1,000,000+",Paid,3.79,Mature 17+,Finance,Positive
+App_10,Music,,155783,75.9,"500,000+",Free,0.0,Mature 17+,Music,Negative
+App_11,Comics,4.3,906423,52.4,"10,000+",Free,0.0,Everyone,Art & Design,Negative
+App_12,Finance,2.2,632359,21.3,"1,000,000+",Free,0.0,Everyone,Social,Negative
+App_13,Photography,4.3,536537,87.9,"50,000+",Paid,8.96,Teen,Entertainment,Neutral
+App_14,Photography,4.9,362346,88.1,"1,000,000+",Paid,7.96,Everyone,Finance,Positive
+App_15,Food & Drink,1.4,321433,87.2,"5,000,000+",Free,0.0,Everyone,Entertainment,Positive
+App_16,Education,4.2,763364,24.6,"50,000+",Free,0.0,Everyone,Communication,Positive
+App_17,Communication,3.4,939279,45.7,"10,000+",Free,0.0,Teen,Art & Design,Negative
+App_18,Food & Drink,2.9,857563,98.5,"1,000+",Free,0.0,Everyone,Photography,Positive
+App_19,Food & Drink,2.7,567056,77.4,"1,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_20,Comics,4.1,406989,3.7,"10,000,000+",Free,0.0,Teen,Communication,Positive
+App_21,Entertainment,3.6,994270,7.5,"10,000,000+",Free,0.0,Teen,Finance,Negative
+App_22,Education,4.2,612592,46.9,"1,000,000+",Free,0.0,Mature 17+,Finance,Positive
+App_23,Business,4.6,211930,91.0,"1,000+",Paid,7.61,Mature 17+,Business,Negative
+App_24,Food & Drink,3.5,196601,54.3,"50,000+",Free,0.0,Mature 17+,Art & Design,Positive
+App_25,Productivity,4.9,416985,50.3,"100,000+",Free,0.0,Everyone,Food & Drink,Positive
+App_26,Social,3.4,165240,11.4,"50,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_27,Entertainment,3.5,744249,66.0,"100,000+",Free,0.0,Everyone,Finance,Negative
+App_28,Business,3.2,140607,82.4,"10,000+",Free,0.0,Teen,Social,Negative
+App_29,Productivity,1.4,225260,38.7,"500,000+",Free,0.0,Teen,Tools,Positive
+App_30,Education,3.9,183421,77.8,"100,000+",Paid,8.17,Mature 17+,Tools,Neutral
+App_31,Art & Design,3.2,561772,96.5,"1,000+",Free,0.0,Everyone,Tools,Negative
+App_32,Productivity,2.8,522098,21.2,"50,000+",Free,0.0,Mature 17+,Tools,Negative
+App_33,Music,4.6,606317,52.8,"10,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_34,Entertainment,2.2,914491,29.4,"1,000+",Free,0.0,Everyone,Comics,Neutral
+App_35,Shopping,3.1,600541,79.5,"10,000+",Free,0.0,Mature 17+,Photography,Positive
+App_36,Productivity,3.8,759516,58.2,"500,000+",Free,0.0,Teen,Business,Negative
+App_37,Health & Fitness,4.2,75488,63.8,"5,000,000+",Free,0.0,Mature 17+,Finance,Negative
+App_38,Art & Design,2.8,555789,80.0,"50,000+",Free,0.0,Everyone,Food & Drink,Positive
+App_39,Photography,4.4,518827,40.2,"1,000,000+",Free,0.0,Everyone,Art & Design,Positive
+App_40,Photography,4.1,727291,91.6,"50,000+",Free,0.0,Teen,Productivity,Neutral
+App_41,Tools,1.3,643891,53.8,"10,000,000+",Free,0.0,Everyone,Music,Neutral
+App_42,Music,1.2,232701,16.6,"500,000+",Free,0.0,Everyone,Health & Fitness,Negative
+App_43,Productivity,3.5,127934,69.9,"50,000+",Free,0.0,Teen,Tools,Neutral
+App_44,Productivity,2.4,34184,79.5,"10,000,000+",Free,0.0,Mature 17+,Shopping,Neutral
+App_45,Tools,1.8,251559,32.4,"1,000,000+",Free,0.0,Teen,Tools,Negative
+App_46,Social,3.3,635029,85.9,"100,000+",Free,0.0,Mature 17+,Photography,Negative
+App_47,Social,2.4,105211,90.7,"10,000+",Free,0.0,Teen,Communication,Negative
+App_48,Tools,3.1,449142,28.4,"1,000,000+",Paid,3.41,Mature 17+,Social,Negative
+App_49,Social,2.8,429767,98.4,"1,000+",Paid,8.98,Teen,Productivity,Positive
+App_50,Comics,3.3,662687,14.9,"500,000+",Free,0.0,Mature 17+,Social,Negative
+App_51,Productivity,2.6,163082,21.0,"100,000+",Free,0.0,Teen,Communication,Negative
+App_52,Finance,,298285,19.2,"1,000+",Free,0.0,Mature 17+,Comics,Negative
+App_53,Communication,1.7,875452,89.5,"1,000+",Free,0.0,Teen,Entertainment,Neutral
+App_54,Health & Fitness,3.8,327925,65.8,"500,000+",Free,0.0,Everyone,Art & Design,Negative
+App_55,Comics,2.6,234486,16.1,"100,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_56,Education,4.5,343815,44.6,"5,000,000+",Free,0.0,Teen,Business,Positive
+App_57,Comics,3.1,196653,61.9,"1,000+",Free,0.0,Mature 17+,Health & Fitness,Negative
+App_58,Finance,4.9,461892,9.3,"1,000+",Free,0.0,Mature 17+,Business,Positive
+App_59,Education,3.4,501274,88.4,"100,000+",Free,0.0,Teen,Finance,Neutral
+App_60,Health & Fitness,1.9,784725,80.6,"50,000+",Free,0.0,Mature 17+,Productivity,Negative
+App_61,Finance,4.3,651944,51.0,"1,000+",Free,0.0,Teen,Art & Design,Positive
+App_62,Business,2.4,195346,96.7,"10,000+",Free,0.0,Everyone,Productivity,Positive
+App_63,Communication,2.4,550548,42.4,"100,000+",Paid,2.23,Mature 17+,Finance,Negative
+App_64,Health & Fitness,1.1,246342,98.4,"1,000+",Free,0.0,Everyone,Education,Positive
+App_65,Productivity,3.2,511183,67.1,"500,000+",Free,0.0,Mature 17+,Food & Drink,Negative
+App_66,Social,3.1,17733,63.8,"1,000,000+",Free,0.0,Mature 17+,Communication,Positive
+App_67,Business,2.4,803546,17.4,"10,000+",Paid,4.02,Mature 17+,Tools,Neutral
+App_68,Music,4.6,867064,88.3,"10,000,000+",Free,0.0,Teen,Productivity,Positive
+App_69,Health & Fitness,1.5,49204,43.3,"10,000,000+",Free,0.0,Everyone,Tools,Positive
+App_70,Music,2.3,959225,17.1,"1,000,000+",Free,0.0,Mature 17+,Music,Negative
+App_71,Education,2.3,863763,2.2,"10,000,000+",Free,0.0,Teen,Finance,Positive
+App_72,Business,1.4,68488,56.4,"1,000,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_73,Communication,2.9,540402,53.2,"1,000+",Free,0.0,Teen,Education,Neutral
+App_74,Productivity,3.8,92678,72.2,"10,000+",Free,0.0,Mature 17+,Communication,Negative
+App_75,Tools,3.0,689215,89.1,"10,000+",Free,0.0,Everyone,Tools,Negative
+App_76,Productivity,1.6,564778,8.9,"50,000+",Paid,6.27,Everyone,Finance,Positive
+App_77,Finance,2.5,285955,73.4,"1,000,000+",Free,0.0,Mature 17+,Productivity,Neutral
+App_78,Productivity,1.0,91758,19.6,"10,000+",Free,0.0,Teen,Education,Negative
+App_79,Shopping,4.5,58093,86.0,"50,000+",Free,0.0,Mature 17+,Education,Positive
+App_80,Food & Drink,1.3,205868,82.1,"100,000+",Free,0.0,Teen,Tools,Positive
+App_81,Tools,3.4,158385,54.5,"50,000+",Paid,1.92,Mature 17+,Art & Design,Negative
+App_82,Comics,4.9,771248,71.3,"500,000+",Free,0.0,Teen,Business,Positive
+App_83,Social,3.1,451100,32.1,"5,000,000+",Free,0.0,Everyone,Education,Negative
+App_84,Art & Design,4.7,793953,47.6,"1,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_85,Communication,1.9,742396,82.3,"100,000+",Free,0.0,Everyone,Comics,Negative
+App_86,Business,4.0,542115,46.5,"5,000,000+",Free,0.0,Everyone,Social,Neutral
+App_87,Food & Drink,3.1,898950,36.4,"5,000,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_88,Communication,3.9,528746,49.9,"100,000+",Free,0.0,Mature 17+,Business,Positive
+App_89,Business,1.2,327352,83.0,"500,000+",Paid,7.56,Teen,Social,Neutral
+App_90,Social,1.6,257781,34.2,"50,000+",Free,0.0,Teen,Social,Positive
+App_91,Entertainment,1.5,94118,18.2,"1,000+",Free,0.0,Everyone,Communication,Neutral
+App_92,Entertainment,,386701,71.5,"50,000+",Free,0.0,Teen,Communication,Neutral
+App_93,Music,4.4,949721,82.8,"10,000+",Free,0.0,Teen,Communication,Neutral
+App_94,Communication,4.0,294154,11.0,"50,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_95,Entertainment,1.1,651276,24.7,"10,000,000+",Free,0.0,Teen,Comics,Positive
+App_96,Shopping,4.5,229204,15.1,"100,000+",Free,0.0,Everyone,Shopping,Negative
+App_97,Tools,2.4,842286,35.4,"1,000+",Free,0.0,Teen,Productivity,Positive
+App_98,Business,2.6,193610,45.6,"50,000+",Free,0.0,Everyone,Finance,Negative
+App_99,Music,1.4,109947,75.1,"1,000+",Paid,4.48,Mature 17+,Health & Fitness,Positive
+App_100,Productivity,3.9,946975,65.5,"1,000+",Free,0.0,Everyone,Productivity,Neutral
+App_101,Business,1.7,444817,62.5,"10,000+",Free,0.0,Teen,Education,Neutral
+App_102,Music,3.3,454262,35.9,"10,000+",Free,0.0,Mature 17+,Communication,Negative
+App_103,Social,4.4,824999,84.3,"100,000+",Free,0.0,Teen,Photography,Negative
+App_104,Communication,1.4,935229,47.7,"500,000+",Free,0.0,Mature 17+,Business,Positive
+App_105,Social,3.1,296137,97.9,"10,000,000+",Free,0.0,Mature 17+,Business,Negative
+App_106,Tools,1.9,76429,63.8,"5,000,000+",Free,0.0,Teen,Education,Positive
+App_107,Tools,2.4,31107,13.5,"1,000+",Free,0.0,Teen,Finance,Negative
+App_108,Food & Drink,2.9,694992,67.9,"500,000+",Free,0.0,Mature 17+,Music,Negative
+App_109,Social,2.4,316497,33.2,"5,000,000+",Free,0.0,Mature 17+,Music,Negative
+App_110,Finance,3.6,12423,68.9,"5,000,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_111,Productivity,2.9,897867,7.9,"10,000,000+",Free,0.0,Everyone,Shopping,Neutral
+App_112,Health & Fitness,3.3,112456,18.3,"100,000+",Free,0.0,Teen,Finance,Positive
+App_113,Social,3.9,635332,85.7,"5,000,000+",Free,0.0,Mature 17+,Education,Negative
+App_114,Food & Drink,3.2,204551,23.5,"10,000,000+",Free,0.0,Teen,Music,Positive
+App_115,Education,3.3,931814,83.9,"5,000,000+",Free,0.0,Everyone,Music,Negative
+App_116,Shopping,3.3,278700,28.6,"1,000+",Free,0.0,Teen,Music,Neutral
+App_117,Business,2.5,555755,64.6,"1,000+",Free,0.0,Mature 17+,Entertainment,Neutral
+App_118,Tools,2.3,54724,69.7,"1,000,000+",Free,0.0,Teen,Photography,Negative
+App_119,Education,4.6,403422,51.8,"500,000+",Free,0.0,Mature 17+,Productivity,Negative
+App_120,Food & Drink,3.4,234665,31.2,"50,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_121,Music,2.0,68108,22.1,"10,000,000+",Free,0.0,Teen,Education,Neutral
+App_122,Health & Fitness,3.0,912458,4.3,"10,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_123,Productivity,2.3,377639,31.1,"10,000,000+",Free,0.0,Mature 17+,Art & Design,Neutral
+App_124,Productivity,4.7,116592,65.7,"50,000+",Free,0.0,Everyone,Productivity,Negative
+App_125,Productivity,1.0,72340,93.9,"500,000+",Free,0.0,Everyone,Art & Design,Positive
+App_126,Shopping,1.9,326559,87.2,"10,000+",Paid,8.05,Everyone,Finance,Negative
+App_127,Health & Fitness,,986853,76.8,"50,000+",Free,0.0,Everyone,Social,Positive
+App_128,Shopping,3.0,726047,79.1,"1,000,000+",Free,0.0,Mature 17+,Education,Negative
+App_129,Tools,4.4,273000,66.8,"10,000+",Free,0.0,Teen,Social,Neutral
+App_130,Shopping,1.4,461327,26.8,"1,000+",Free,0.0,Mature 17+,Education,Negative
+App_131,Art & Design,4.2,298622,90.8,"50,000+",Free,0.0,Mature 17+,Art & Design,Positive
+App_132,Health & Fitness,1.2,135427,67.4,"10,000,000+",Free,0.0,Mature 17+,Health & Fitness,Negative
+App_133,Finance,4.4,932088,56.5,"10,000+",Free,0.0,Teen,Art & Design,Positive
+App_134,Health & Fitness,1.2,650091,12.0,"1,000,000+",Free,0.0,Everyone,Education,Negative
+App_135,Food & Drink,1.1,843081,45.3,"10,000,000+",Free,0.0,Mature 17+,Music,Neutral
+App_136,Art & Design,3.8,165675,46.6,"5,000,000+",Paid,5.43,Mature 17+,Health & Fitness,Neutral
+App_137,Productivity,5.0,860326,86.6,"10,000+",Free,0.0,Everyone,Social,Negative
+App_138,Food & Drink,4.6,499599,55.1,"10,000+",Paid,2.62,Mature 17+,Tools,Negative
+App_139,Food & Drink,,494048,38.7,"1,000,000+",Free,0.0,Teen,Communication,Negative
+App_140,Tools,4.7,307357,97.7,"5,000,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_141,Photography,1.0,598457,12.0,"50,000+",Free,0.0,Mature 17+,Food & Drink,Negative
+App_142,Comics,4.9,229289,42.8,"100,000+",Free,0.0,Everyone,Entertainment,Negative
+App_143,Art & Design,3.0,398565,5.2,"50,000+",Free,0.0,Mature 17+,Photography,Positive
+App_144,Food & Drink,3.9,251151,74.3,"5,000,000+",Paid,7.6,Mature 17+,Tools,Neutral
+App_145,Comics,4.3,936805,91.9,"500,000+",Paid,3.26,Teen,Comics,Negative
+App_146,Comics,3.9,649929,28.7,"10,000,000+",Free,0.0,Everyone,Communication,Negative
+App_147,Art & Design,3.1,714036,86.0,"1,000,000+",Free,0.0,Everyone,Business,Neutral
+App_148,Photography,2.9,511878,29.9,"50,000+",Free,0.0,Teen,Art & Design,Neutral
+App_149,Education,4.4,780741,91.2,"10,000+",Paid,5.41,Mature 17+,Shopping,Positive
+App_150,Music,1.8,271930,75.6,"1,000,000+",Free,0.0,Everyone,Social,Negative
+App_151,Finance,4.9,505729,80.7,"1,000+",Free,0.0,Everyone,Food & Drink,Negative
+App_152,Music,3.8,315607,2.8,"5,000,000+",Free,0.0,Mature 17+,Art & Design,Positive
+App_153,Health & Fitness,,359787,,"10,000,000+",Free,0.0,Mature 17+,Social,Neutral
+App_154,Productivity,3.9,656121,72.9,"50,000+",Paid,1.67,Everyone,Shopping,Positive
+App_155,Finance,3.1,176015,31.2,"1,000,000+",Free,0.0,Mature 17+,Photography,Neutral
+App_156,Health & Fitness,3.8,620061,83.1,"10,000,000+",Free,0.0,Everyone,Art & Design,Positive
+App_157,Food & Drink,4.1,454279,28.9,"50,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_158,Productivity,1.3,42928,87.4,"1,000,000+",Free,0.0,Mature 17+,Music,Positive
+App_159,Business,3.0,835136,12.1,"10,000+",Free,0.0,Teen,Productivity,Neutral
+App_160,Art & Design,4.7,272770,70.7,"1,000+",Free,0.0,Mature 17+,Music,Neutral
+App_161,Finance,2.3,855442,54.5,"1,000+",Free,0.0,Teen,Tools,Neutral
+App_162,Finance,3.4,25692,10.6,"500,000+",Paid,6.55,Mature 17+,Entertainment,Neutral
+App_163,Social,2.5,291226,24.9,"1,000,000+",Free,0.0,Everyone,Health & Fitness,Neutral
+App_164,Food & Drink,2.8,786739,2.2,"50,000+",Free,0.0,Everyone,Art & Design,Negative
+App_165,Education,,232141,47.4,"1,000+",Paid,6.98,Mature 17+,Finance,Neutral
+App_166,Comics,3.2,350977,30.8,"5,000,000+",Free,0.0,Mature 17+,Music,Negative
+App_167,Productivity,1.8,754396,60.2,"1,000+",Free,0.0,Everyone,Photography,Neutral
+App_168,Food & Drink,3.7,125082,30.4,"100,000+",Free,0.0,Mature 17+,Education,Negative
+App_169,Entertainment,1.4,257011,30.7,"100,000+",Free,0.0,Teen,Productivity,Negative
+App_170,Photography,1.6,68719,74.6,"1,000+",Free,0.0,Teen,Tools,Positive
+App_171,Comics,1.0,684788,5.8,"1,000,000+",Paid,4.4,Teen,Food & Drink,Neutral
+App_172,Art & Design,1.5,308723,90.4,"500,000+",Free,0.0,Teen,Social,Positive
+App_173,Comics,2.9,501743,85.4,"1,000+",Free,0.0,Teen,Finance,Positive
+App_174,Education,3.4,151275,67.1,"10,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_175,Tools,4.2,171063,59.7,"10,000,000+",Free,0.0,Mature 17+,Communication,Positive
+App_176,Social,1.4,141926,89.3,"50,000+",Free,0.0,Teen,Entertainment,Neutral
+App_177,Comics,4.4,755443,19.3,"500,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_178,Art & Design,4.0,867969,8.8,"10,000+",Free,0.0,Mature 17+,Health & Fitness,Neutral
+App_179,Education,2.6,98640,24.7,"500,000+",Free,0.0,Teen,Productivity,Neutral
+App_180,Music,4.7,859514,79.7,"10,000+",Paid,9.58,Mature 17+,Education,Neutral
+App_181,Finance,5.0,627135,4.4,"50,000+",Free,0.0,Mature 17+,Food & Drink,Negative
+App_182,Tools,1.8,187094,58.7,"50,000+",Free,0.0,Mature 17+,Education,Positive
+App_183,Social,2.5,310475,99.5,"100,000+",Free,0.0,Teen,Business,Negative
+App_184,Finance,4.7,29401,85.7,"1,000,000+",Free,0.0,Mature 17+,Tools,Positive
+App_185,Photography,3.9,222824,52.6,"10,000+",Free,0.0,Everyone,Entertainment,Positive
+App_186,Health & Fitness,1.2,514103,7.3,"10,000,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_187,Tools,4.1,193883,83.3,"100,000+",Free,0.0,Teen,Shopping,Negative
+App_188,Tools,4.3,696783,60.3,"10,000+",Free,0.0,Everyone,Comics,Positive
+App_189,Music,4.0,18852,12.4,"100,000+",Paid,8.86,Teen,Art & Design,Negative
+App_190,Music,4.2,737665,10.3,"50,000+",Paid,7.36,Everyone,Art & Design,Neutral
+App_191,Productivity,4.3,884984,91.1,"500,000+",Paid,7.41,Everyone,Shopping,Positive
+App_192,Shopping,1.7,668855,67.3,"5,000,000+",Free,0.0,Everyone,Comics,Positive
+App_193,Comics,,217129,83.1,"100,000+",Free,0.0,Teen,Music,Neutral
+App_194,Tools,3.5,907769,88.0,"10,000+",Free,0.0,Teen,Education,Neutral
+App_195,Finance,4.6,56373,57.6,"10,000+",Free,0.0,Mature 17+,Comics,Positive
+App_196,Art & Design,2.3,258603,52.2,"5,000,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_197,Communication,3.4,616266,43.6,"1,000,000+",Free,0.0,Everyone,Food & Drink,Negative
+App_198,Shopping,3.7,791427,32.4,"10,000,000+",Free,0.0,Everyone,Comics,Negative
+App_199,Communication,2.8,120068,44.0,"50,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_200,Social,3.9,377944,77.6,"10,000+",Free,0.0,Teen,Tools,Negative
+App_201,Education,4.6,600947,60.6,"1,000+",Free,0.0,Teen,Shopping,Negative
+App_202,Finance,3.5,10799,89.4,"500,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_203,Finance,3.2,196233,44.9,"100,000+",Free,0.0,Everyone,Shopping,Neutral
+App_204,Shopping,2.8,534103,61.1,"1,000,000+",Free,0.0,Mature 17+,Finance,Positive
+App_205,Tools,3.3,19269,63.5,"10,000,000+",Free,0.0,Mature 17+,Communication,Negative
+App_206,Photography,2.4,518752,59.6,"5,000,000+",Free,0.0,Everyone,Communication,Positive
+App_207,Shopping,2.6,118513,70.6,"500,000+",Free,0.0,Everyone,Productivity,Positive
+App_208,Communication,3.1,933767,24.5,"50,000+",Free,0.0,Teen,Shopping,Negative
+App_209,Shopping,1.3,643652,51.7,"1,000,000+",Free,0.0,Teen,Business,Negative
+App_210,Finance,1.9,268026,11.3,"10,000,000+",Free,0.0,Mature 17+,Education,Positive
+App_211,Photography,3.2,743637,39.1,"100,000+",Paid,3.26,Teen,Food & Drink,Negative
+App_212,Comics,2.7,523088,49.3,"100,000+",Free,0.0,Teen,Finance,Negative
+App_213,Entertainment,2.3,124581,65.6,"5,000,000+",Free,0.0,Everyone,Finance,Negative
+App_214,Productivity,3.9,215500,95.1,"1,000+",Free,0.0,Everyone,Entertainment,Negative
+App_215,Business,3.8,559973,60.5,"5,000,000+",Paid,6.9,Teen,Comics,Negative
+App_216,Music,1.7,817214,74.6,"50,000+",Free,0.0,Everyone,Education,Negative
+App_217,Shopping,4.5,179036,51.1,"1,000,000+",Free,0.0,Teen,Shopping,Neutral
+App_218,Social,3.0,392236,63.8,"1,000,000+",Free,0.0,Everyone,Art & Design,Positive
+App_219,Health & Fitness,4.0,870948,8.0,"10,000+",Paid,2.77,Everyone,Finance,Negative
+App_220,Education,3.3,448430,26.2,"1,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_221,Entertainment,5.0,390054,36.8,"1,000+",Free,0.0,Everyone,Art & Design,Neutral
+App_222,Productivity,4.0,38167,47.8,"1,000,000+",Free,0.0,Teen,Shopping,Negative
+App_223,Productivity,3.8,698145,5.5,"1,000,000+",Free,0.0,Mature 17+,Business,Positive
+App_224,Productivity,4.1,777722,14.9,"500,000+",Free,0.0,Everyone,Comics,Negative
+App_225,Productivity,1.6,18173,28.4,"10,000,000+",Free,0.0,Teen,Comics,Negative
+App_226,Communication,1.8,36135,97.2,"500,000+",Free,0.0,Teen,Food & Drink,Negative
+App_227,Social,3.9,196149,33.8,"500,000+",Free,0.0,Everyone,Finance,Negative
+App_228,Social,3.0,233882,48.7,"1,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_229,Photography,4.0,614761,20.4,"10,000+",Paid,2.29,Everyone,Tools,Negative
+App_230,Music,1.4,869894,61.5,"100,000+",Free,0.0,Teen,Music,Negative
+App_231,Finance,3.1,614905,28.8,"500,000+",Free,0.0,Mature 17+,Music,Neutral
+App_232,Productivity,2.5,589838,21.5,"10,000+",Free,0.0,Teen,Photography,Neutral
+App_233,Health & Fitness,2.8,534770,52.1,"5,000,000+",Free,0.0,Everyone,Communication,Negative
+App_234,Finance,3.4,922041,1.5,"50,000+",Free,0.0,Mature 17+,Health & Fitness,Negative
+App_235,Social,3.0,726431,1.8,"500,000+",Free,0.0,Teen,Art & Design,Neutral
+App_236,Art & Design,3.2,457928,22.7,"5,000,000+",Free,0.0,Teen,Photography,Neutral
+App_237,Art & Design,2.9,745815,4.6,"100,000+",Free,0.0,Teen,Tools,Neutral
+App_238,Health & Fitness,2.6,62029,11.7,"50,000+",Free,0.0,Everyone,Business,Negative
+App_239,Photography,4.1,757871,34.5,"50,000+",Free,0.0,Mature 17+,Tools,Positive
+App_240,Social,1.0,752978,80.5,"100,000+",Free,0.0,Everyone,Social,Positive
+App_241,Health & Fitness,3.4,885396,57.6,"500,000+",Paid,9.99,Everyone,Communication,Positive
+App_242,Communication,3.3,667789,51.8,"1,000+",Free,0.0,Everyone,Comics,Positive
+App_243,Shopping,3.9,781065,30.1,"100,000+",Paid,6.59,Mature 17+,Art & Design,Negative
+App_244,Health & Fitness,3.4,287413,93.2,"100,000+",Free,0.0,Everyone,Education,Positive
+App_245,Comics,4.3,87568,40.3,"100,000+",Paid,4.87,Everyone,Finance,Neutral
+App_246,Finance,4.8,34694,9.6,"50,000+",Free,0.0,Everyone,Business,Neutral
+App_247,Entertainment,2.4,994561,62.1,"10,000,000+",Free,0.0,Everyone,Education,Positive
+App_248,Food & Drink,1.9,191803,12.3,"10,000+",Free,0.0,Teen,Entertainment,Neutral
+App_249,Photography,2.7,45133,35.2,"5,000,000+",Free,0.0,Everyone,Photography,Negative
+App_250,Health & Fitness,2.2,587521,51.2,"1,000+",Free,0.0,Teen,Finance,Positive
+App_251,Social,3.5,990769,87.5,"500,000+",Free,0.0,Everyone,Art & Design,Positive
+App_252,Education,4.6,73961,49.9,"500,000+",Free,0.0,Mature 17+,Finance,Negative
+App_253,Art & Design,1.6,707750,70.5,"5,000,000+",Free,0.0,Teen,Communication,Neutral
+App_254,Comics,1.4,293994,99.3,"10,000+",Free,0.0,Teen,Food & Drink,Negative
+App_255,Music,2.0,564849,14.0,"100,000+",Free,0.0,Teen,Shopping,Negative
+App_256,Productivity,3.9,467116,28.2,"10,000,000+",Free,0.0,Teen,Communication,Neutral
+App_257,Food & Drink,3.4,78322,40.1,"1,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_258,Tools,1.4,636408,42.8,"500,000+",Free,0.0,Everyone,Health & Fitness,Neutral
+App_259,Photography,4.7,810758,41.7,"5,000,000+",Free,0.0,Teen,Education,Neutral
+App_260,Entertainment,4.2,793253,90.9,"1,000,000+",Free,0.0,Mature 17+,Social,Negative
+App_261,Food & Drink,1.1,973758,71.7,"10,000,000+",Free,0.0,Teen,Productivity,Neutral
+App_262,Health & Fitness,3.6,544997,61.2,"5,000,000+",Free,0.0,Everyone,Communication,Negative
+App_263,Communication,4.1,969734,31.6,"10,000,000+",Free,0.0,Teen,Food & Drink,Neutral
+App_264,Art & Design,2.5,654901,82.6,"500,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_265,Social,1.3,204081,95.6,"100,000+",Free,0.0,Everyone,Health & Fitness,Neutral
+App_266,Art & Design,1.3,104311,82.3,"1,000,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_267,Music,1.4,186421,1.2,"10,000+",Free,0.0,Everyone,Comics,Negative
+App_268,Communication,4.4,442211,64.0,"1,000+",Free,0.0,Everyone,Food & Drink,Neutral
+App_269,Productivity,4.6,487789,6.1,"10,000+",Free,0.0,Everyone,Social,Positive
+App_270,Social,1.5,923260,26.5,"10,000+",Free,0.0,Teen,Education,Positive
+App_271,Finance,1.9,911397,6.9,"5,000,000+",Free,0.0,Mature 17+,Business,Neutral
+App_272,Business,1.7,861052,60.8,"10,000,000+",Free,0.0,Mature 17+,Music,Neutral
+App_273,Comics,1.7,457056,69.0,"1,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_274,Art & Design,4.3,850841,12.3,"1,000+",Free,0.0,Everyone,Comics,Negative
+App_275,Education,2.3,30084,39.0,"500,000+",Free,0.0,Teen,Productivity,Positive
+App_276,Art & Design,2.2,643335,46.2,"500,000+",Paid,3.58,Everyone,Business,Positive
+App_277,Food & Drink,1.9,729282,37.5,"1,000+",Free,0.0,Mature 17+,Art & Design,Neutral
+App_278,Art & Design,3.4,6001,13.0,"1,000,000+",Paid,6.43,Teen,Social,Neutral
+App_279,Photography,2.5,162724,42.5,"50,000+",Free,0.0,Teen,Food & Drink,Positive
+App_280,Art & Design,4.0,222417,75.4,"500,000+",Free,0.0,Teen,Photography,Negative
+App_281,Business,1.8,293299,8.0,"50,000+",Free,0.0,Mature 17+,Comics,Positive
+App_282,Business,4.2,693145,8.9,"5,000,000+",Free,0.0,Teen,Finance,Positive
+App_283,Productivity,3.4,991569,36.1,"1,000,000+",Free,0.0,Teen,Art & Design,Negative
+App_284,Entertainment,1.5,145888,94.2,"1,000+",Free,0.0,Everyone,Art & Design,Positive
+App_285,Finance,2.7,638487,67.2,"1,000,000+",Free,0.0,Everyone,Tools,Positive
+App_286,Education,4.5,535526,68.2,"500,000+",Paid,1.44,Teen,Productivity,Neutral
+App_287,Art & Design,4.7,690758,36.8,"10,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_288,Art & Design,2.9,968716,59.8,"5,000,000+",Free,0.0,Everyone,Tools,Neutral
+App_289,Comics,2.9,23529,2.0,"1,000+",Free,0.0,Everyone,Productivity,Neutral
+App_290,Social,4.7,574588,64.0,"100,000+",Free,0.0,Everyone,Food & Drink,Negative
+App_291,Business,3.3,202480,91.4,"5,000,000+",Free,0.0,Mature 17+,Productivity,Negative
+App_292,Education,1.1,441560,61.6,"10,000,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_293,Productivity,4.7,772677,87.5,"50,000+",Paid,1.84,Everyone,Comics,Neutral
+App_294,Music,2.0,245227,72.7,"1,000,000+",Free,0.0,Teen,Entertainment,Negative
+App_295,Entertainment,3.3,887800,12.9,"1,000+",Free,0.0,Everyone,Photography,Neutral
+App_296,Finance,1.7,760901,90.3,"5,000,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_297,Communication,1.1,17447,7.6,"1,000,000+",Free,0.0,Teen,Shopping,Negative
+App_298,Finance,2.2,672380,53.9,"1,000+",Free,0.0,Mature 17+,Productivity,Positive
+App_299,Photography,4.1,556210,15.1,"500,000+",Free,0.0,Teen,Communication,Neutral
+App_300,Food & Drink,2.1,964263,2.2,"5,000,000+",Free,0.0,Mature 17+,Art & Design,Negative
+App_301,Photography,1.9,564496,42.8,"500,000+",Free,0.0,Teen,Education,Positive
+App_302,Art & Design,1.9,915487,30.2,"5,000,000+",Free,0.0,Teen,Art & Design,Neutral
+App_303,Tools,3.1,482415,49.1,"500,000+",Free,0.0,Teen,Shopping,Negative
+App_304,Entertainment,4.9,8067,58.1,"10,000,000+",Free,0.0,Teen,Art & Design,Neutral
+App_305,Food & Drink,2.8,897251,5.3,"1,000,000+",Free,0.0,Mature 17+,Music,Negative
+App_306,Education,3.2,536259,13.2,"100,000+",Free,0.0,Mature 17+,Tools,Negative
+App_307,Communication,4.4,225471,56.3,"5,000,000+",Free,0.0,Teen,Photography,Neutral
+App_308,Business,3.1,208624,35.0,"10,000,000+",Free,0.0,Teen,Photography,Neutral
+App_309,Entertainment,1.7,729730,73.2,"5,000,000+",Free,0.0,Mature 17+,Social,Negative
+App_310,Entertainment,2.2,164785,65.6,"500,000+",Free,0.0,Teen,Finance,Positive
+App_311,Photography,2.2,552567,84.7,"1,000+",Free,0.0,Teen,Productivity,Neutral
+App_312,Tools,2.6,251637,69.6,"5,000,000+",Free,0.0,Teen,Entertainment,Negative
+App_313,Art & Design,2.7,707648,43.6,"10,000,000+",Free,0.0,Everyone,Business,Negative
+App_314,Health & Fitness,4.2,841631,67.6,"500,000+",Free,0.0,Teen,Social,Positive
+App_315,Productivity,2.4,559650,28.3,"10,000+",Free,0.0,Everyone,Photography,Positive
+App_316,Photography,2.9,864745,31.3,"500,000+",Free,0.0,Teen,Productivity,Positive
+App_317,Entertainment,3.5,379651,79.1,"1,000,000+",Paid,1.29,Mature 17+,Business,Neutral
+App_318,Shopping,2.5,935872,45.2,"100,000+",Free,0.0,Everyone,Photography,Negative
+App_319,Comics,4.3,471182,80.0,"10,000+",Free,0.0,Everyone,Finance,Negative
+App_320,Communication,3.3,872801,82.4,"1,000,000+",Free,0.0,Teen,Art & Design,Negative
+App_321,Productivity,2.2,60645,85.9,"1,000,000+",Free,0.0,Teen,Shopping,Positive
+App_322,Photography,3.9,234655,91.7,"1,000,000+",Paid,5.48,Everyone,Business,Negative
+App_323,Communication,3.1,223994,43.7,"1,000+",Free,0.0,Mature 17+,Productivity,Neutral
+App_324,Comics,3.1,727606,32.6,"1,000,000+",Paid,6.4,Mature 17+,Food & Drink,Positive
+App_325,Music,2.9,989570,58.6,"1,000+",Paid,1.55,Teen,Entertainment,Positive
+App_326,Comics,3.0,302166,37.7,"1,000,000+",Paid,7.48,Mature 17+,Tools,Positive
+App_327,Tools,4.1,996968,60.5,"50,000+",Free,0.0,Mature 17+,Social,Positive
+App_328,Comics,1.4,567301,70.9,"10,000,000+",Free,0.0,Teen,Business,Neutral
+App_329,Communication,2.3,359277,69.2,"10,000+",Free,0.0,Mature 17+,Finance,Negative
+App_330,Finance,1.3,367036,38.1,"50,000+",Free,0.0,Teen,Communication,Neutral
+App_331,Communication,4.0,250597,17.5,"1,000,000+",Free,0.0,Everyone,Business,Negative
+App_332,Health & Fitness,2.1,973281,43.6,"10,000+",Free,0.0,Teen,Productivity,Neutral
+App_333,Art & Design,,443157,15.1,"10,000+",Free,0.0,Everyone,Entertainment,Positive
+App_334,Food & Drink,3.1,701792,89.1,"5,000,000+",Free,0.0,Everyone,Photography,Positive
+App_335,Finance,4.2,485378,35.2,"100,000+",Free,0.0,Mature 17+,Tools,Neutral
+App_336,Business,4.9,906395,16.3,"50,000+",Free,0.0,Mature 17+,Health & Fitness,Neutral
+App_337,Food & Drink,4.4,156204,3.5,"100,000+",Free,0.0,Mature 17+,Photography,Negative
+App_338,Art & Design,4.5,693306,64.9,"10,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_339,Photography,2.6,714934,64.1,"1,000+",Free,0.0,Mature 17+,Social,Neutral
+App_340,Productivity,,45036,34.7,"10,000+",Free,0.0,Everyone,Food & Drink,Negative
+App_341,Health & Fitness,2.0,685254,8.1,"100,000+",Free,0.0,Mature 17+,Tools,Negative
+App_342,Health & Fitness,1.8,717048,41.6,"50,000+",Paid,3.06,Mature 17+,Comics,Negative
+App_343,Business,3.0,202156,31.8,"1,000,000+",Free,0.0,Teen,Comics,Neutral
+App_344,Finance,3.4,967935,68.0,"5,000,000+",Free,0.0,Teen,Business,Negative
+App_345,Tools,2.4,225569,61.0,"5,000,000+",Free,0.0,Everyone,Education,Positive
+App_346,Social,3.3,28241,37.1,"5,000,000+",Free,0.0,Teen,Social,Positive
+App_347,Music,4.5,926678,22.6,"1,000,000+",Free,0.0,Mature 17+,Productivity,Positive
+App_348,Comics,3.2,137578,98.8,"5,000,000+",Free,0.0,Teen,Social,Neutral
+App_349,Finance,3.9,97459,45.9,"50,000+",Free,0.0,Everyone,Communication,Positive
+App_350,Productivity,4.2,909811,69.1,"1,000,000+",Free,0.0,Mature 17+,Finance,Neutral
+App_351,Music,5.0,154463,14.9,"5,000,000+",Free,0.0,Everyone,Communication,Neutral
+App_352,Health & Fitness,3.4,565956,49.1,"1,000,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_353,Communication,4.2,621927,3.7,"100,000+",Paid,7.16,Teen,Productivity,Negative
+App_354,Productivity,4.9,571239,51.0,"10,000,000+",Paid,9.83,Everyone,Productivity,Neutral
+App_355,Art & Design,4.8,493258,96.4,"10,000,000+",Free,0.0,Mature 17+,Business,Positive
+App_356,Business,1.6,579211,39.0,"50,000+",Free,0.0,Teen,Photography,Neutral
+App_357,Art & Design,2.6,23412,4.9,"500,000+",Free,0.0,Teen,Social,Negative
+App_358,Social,2.3,960712,4.1,"1,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_359,Productivity,1.3,984522,39.4,"5,000,000+",Free,0.0,Teen,Tools,Positive
+App_360,Education,3.5,427487,16.8,"1,000+",Paid,7.21,Everyone,Finance,Neutral
+App_361,Education,3.9,435095,3.3,"1,000,000+",Free,0.0,Teen,Communication,Neutral
+App_362,Photography,4.4,724288,75.9,"1,000+",Free,0.0,Teen,Shopping,Neutral
+App_363,Finance,1.5,500631,46.4,"50,000+",Free,0.0,Mature 17+,Entertainment,Neutral
+App_364,Health & Fitness,4.5,885255,29.6,"50,000+",Paid,8.94,Everyone,Finance,Positive
+App_365,Health & Fitness,3.6,798943,90.1,"10,000+",Free,0.0,Mature 17+,Communication,Negative
+App_366,Comics,3.8,496137,12.5,"10,000,000+",Free,0.0,Teen,Tools,Positive
+App_367,Comics,4.6,249162,95.6,"5,000,000+",Free,0.0,Teen,Food & Drink,Neutral
+App_368,Comics,3.5,843541,32.1,"10,000+",Free,0.0,Mature 17+,Health & Fitness,Neutral
+App_369,Communication,2.3,408738,89.0,"1,000+",Free,0.0,Mature 17+,Art & Design,Negative
+App_370,Food & Drink,4.3,435784,60.7,"500,000+",Paid,9.52,Mature 17+,Finance,Neutral
+App_371,Entertainment,2.5,556759,82.8,"10,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_372,Food & Drink,1.1,57122,98.4,"10,000+",Free,0.0,Teen,Tools,Positive
+App_373,Art & Design,4.3,333473,29.6,"50,000+",Free,0.0,Mature 17+,Productivity,Negative
+App_374,Food & Drink,2.4,99171,96.2,"500,000+",Free,0.0,Teen,Music,Positive
+App_375,Communication,4.1,182368,39.6,"1,000,000+",Free,0.0,Everyone,Education,Positive
+App_376,Photography,2.5,997958,39.2,"1,000+",Free,0.0,Everyone,Productivity,Positive
+App_377,Art & Design,4.4,359018,34.7,"10,000+",Free,0.0,Everyone,Business,Positive
+App_378,Food & Drink,1.9,489726,54.6,"500,000+",Free,0.0,Everyone,Music,Neutral
+App_379,Communication,4.9,288959,16.3,"10,000,000+",Free,0.0,Teen,Entertainment,Positive
+App_380,Entertainment,4.1,814137,55.8,"5,000,000+",Free,0.0,Everyone,Productivity,Negative
+App_381,Food & Drink,1.5,624241,54.6,"500,000+",Paid,5.37,Everyone,Productivity,Negative
+App_382,Communication,3.3,555562,76.4,"10,000,000+",Free,0.0,Mature 17+,Finance,Positive
+App_383,Social,4.9,927560,83.5,"1,000+",Free,0.0,Everyone,Business,Negative
+App_384,Comics,2.9,497760,44.6,"500,000+",Free,0.0,Mature 17+,Business,Positive
+App_385,Social,1.7,76473,30.9,"10,000,000+",Free,0.0,Everyone,Music,Negative
+App_386,Health & Fitness,2.9,855784,26.7,"500,000+",Free,0.0,Everyone,Tools,Negative
+App_387,Comics,3.0,193121,20.3,"500,000+",Free,0.0,Mature 17+,Social,Positive
+App_388,Health & Fitness,4.0,193818,6.7,"5,000,000+",Free,0.0,Everyone,Productivity,Positive
+App_389,Shopping,3.8,594405,34.9,"10,000,000+",Free,0.0,Teen,Music,Neutral
+App_390,Business,2.6,63137,27.8,"10,000,000+",Free,0.0,Teen,Art & Design,Positive
+App_391,Social,1.9,614206,96.7,"10,000+",Free,0.0,Everyone,Communication,Positive
+App_392,Business,3.6,530936,56.2,"1,000+",Paid,7.31,Teen,Finance,Neutral
+App_393,Business,2.7,641369,35.4,"5,000,000+",Free,0.0,Mature 17+,Social,Positive
+App_394,Entertainment,1.5,234313,58.5,"500,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_395,Comics,4.6,204466,14.8,"500,000+",Paid,8.66,Everyone,Tools,Neutral
+App_396,Shopping,3.8,502520,45.0,"10,000+",Paid,4.2,Mature 17+,Comics,Positive
+App_397,Health & Fitness,3.7,154349,63.0,"1,000+",Free,0.0,Mature 17+,Productivity,Positive
+App_398,Communication,4.3,286266,49.4,"50,000+",Free,0.0,Mature 17+,Photography,Neutral
+App_399,Art & Design,3.1,630685,40.8,"5,000,000+",Free,0.0,Everyone,Finance,Neutral
+App_400,Communication,4.3,661002,99.4,"10,000+",Free,0.0,Mature 17+,Finance,Negative
+App_401,Art & Design,,222184,88.2,"1,000+",Free,0.0,Mature 17+,Finance,Positive
+App_402,Social,1.3,489636,62.7,"5,000,000+",Free,0.0,Teen,Business,Negative
+App_403,Education,2.6,60528,57.4,"500,000+",Free,0.0,Teen,Entertainment,Negative
+App_404,Communication,3.0,678200,62.4,"1,000+",Free,0.0,Everyone,Business,Neutral
+App_405,Food & Drink,3.9,321597,20.9,"1,000+",Free,0.0,Teen,Entertainment,Positive
+App_406,Food & Drink,1.4,637520,40.1,"1,000,000+",Free,0.0,Teen,Shopping,Positive
+App_407,Finance,1.6,187704,4.9,"1,000+",Free,0.0,Mature 17+,Music,Neutral
+App_408,Comics,2.1,540440,48.1,"50,000+",Free,0.0,Mature 17+,Comics,Negative
+App_409,Art & Design,2.1,100789,54.8,"1,000+",Free,0.0,Teen,Social,Neutral
+App_410,Art & Design,3.9,702536,23.5,"50,000+",Paid,3.34,Teen,Business,Positive
+App_411,Productivity,2.0,446736,96.4,"500,000+",Free,0.0,Teen,Productivity,Neutral
+App_412,Photography,3.5,656131,91.0,"50,000+",Free,0.0,Everyone,Tools,Positive
+App_413,Comics,3.0,262407,72.5,"5,000,000+",Free,0.0,Everyone,Social,Negative
+App_414,Entertainment,3.3,303668,53.8,"500,000+",Free,0.0,Everyone,Entertainment,Positive
+App_415,Finance,4.4,502854,87.1,"500,000+",Paid,9.51,Teen,Business,Negative
+App_416,Entertainment,2.6,971348,13.9,"50,000+",Free,0.0,Teen,Education,Negative
+App_417,Social,4.1,463647,79.3,"10,000,000+",Free,0.0,Everyone,Business,Positive
+App_418,Social,2.7,403950,13.4,"10,000+",Free,0.0,Everyone,Comics,Positive
+App_419,Entertainment,2.4,135970,79.6,"100,000+",Free,0.0,Teen,Comics,Negative
+App_420,Entertainment,4.8,284664,28.3,"10,000,000+",Free,0.0,Mature 17+,Entertainment,Neutral
+App_421,Shopping,1.7,510359,87.8,"1,000+",Free,0.0,Everyone,Entertainment,Positive
+App_422,Comics,1.4,644963,94.5,"1,000,000+",Free,0.0,Teen,Music,Negative
+App_423,Entertainment,4.1,782618,15.7,"100,000+",Free,0.0,Teen,Comics,Negative
+App_424,Food & Drink,1.3,291544,46.8,"1,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_425,Photography,4.3,876413,98.1,"10,000,000+",Paid,7.53,Teen,Shopping,Positive
+App_426,Photography,2.7,10849,48.9,"10,000,000+",Free,0.0,Teen,Productivity,Negative
+App_427,Business,4.7,628519,86.5,"1,000+",Free,0.0,Everyone,Shopping,Neutral
+App_428,Education,3.9,680581,59.3,"500,000+",Free,0.0,Everyone,Art & Design,Negative
+App_429,Social,3.4,915095,38.2,"1,000+",Paid,2.97,Mature 17+,Finance,Positive
+App_430,Art & Design,4.8,299731,29.3,"1,000,000+",Free,0.0,Mature 17+,Shopping,Neutral
+App_431,Productivity,2.6,225119,21.1,"10,000,000+",Free,0.0,Teen,Food & Drink,Negative
+App_432,Tools,4.8,426677,76.4,"1,000+",Free,0.0,Everyone,Business,Neutral
+App_433,Art & Design,1.5,807755,39.3,"50,000+",Free,0.0,Mature 17+,Communication,Positive
+App_434,Education,2.9,597318,51.6,"100,000+",Free,0.0,Mature 17+,Music,Neutral
+App_435,Productivity,2.1,669516,49.7,"50,000+",Free,0.0,Mature 17+,Finance,Positive
+App_436,Shopping,3.2,290624,58.2,"1,000,000+",Free,0.0,Teen,Food & Drink,Negative
+App_437,Comics,1.6,812567,86.7,"1,000+",Free,0.0,Everyone,Art & Design,Positive
+App_438,Communication,4.4,817152,98.1,"5,000,000+",Free,0.0,Mature 17+,Communication,Negative
+App_439,Comics,4.4,937481,,"1,000,000+",Free,0.0,Everyone,Entertainment,Negative
+App_440,Art & Design,4.8,256653,82.9,"500,000+",Free,0.0,Mature 17+,Comics,Positive
+App_441,Art & Design,1.6,448632,76.7,"50,000+",Free,0.0,Mature 17+,Education,Negative
+App_442,Productivity,3.5,719501,57.8,"50,000+",Free,0.0,Everyone,Music,Neutral
+App_443,Productivity,2.9,379604,95.6,"10,000+",Free,0.0,Everyone,Health & Fitness,Negative
+App_444,Social,2.4,53452,20.8,"1,000+",Free,0.0,Everyone,Photography,Positive
+App_445,Shopping,2.4,424227,11.8,"500,000+",Free,0.0,Teen,Shopping,Neutral
+App_446,Social,2.7,163956,85.5,"5,000,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_447,Education,3.8,3291,44.5,"50,000+",Free,0.0,Teen,Education,Negative
+App_448,Entertainment,3.4,950764,84.8,"50,000+",Free,0.0,Everyone,Food & Drink,Negative
+App_449,Comics,,877068,89.4,"500,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_450,Productivity,1.3,628964,7.2,"1,000,000+",Free,0.0,Teen,Communication,Neutral
+App_451,Health & Fitness,1.3,195813,88.5,"1,000,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_452,Education,1.0,443039,45.4,"1,000+",Free,0.0,Teen,Photography,Negative
+App_453,Food & Drink,4.9,3731,51.5,"10,000,000+",Free,0.0,Everyone,Comics,Neutral
+App_454,Shopping,1.0,137344,63.0,"10,000+",Free,0.0,Teen,Comics,Positive
+App_455,Art & Design,,304324,92.7,"50,000+",Free,0.0,Mature 17+,Communication,Positive
+App_456,Social,2.3,220269,2.9,"10,000,000+",Paid,5.03,Mature 17+,Health & Fitness,Positive
+App_457,Education,4.2,614741,48.2,"10,000,000+",Paid,8.16,Mature 17+,Education,Positive
+App_458,Tools,4.8,413597,69.1,"10,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_459,Comics,4.2,553059,72.5,"10,000,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_460,Productivity,3.8,647199,69.6,"10,000,000+",Free,0.0,Teen,Comics,Positive
+App_461,Art & Design,3.1,706891,14.3,"1,000,000+",Free,0.0,Everyone,Tools,Neutral
+App_462,Communication,1.3,222072,30.6,"1,000,000+",Free,0.0,Everyone,Food & Drink,Positive
+App_463,Tools,4.8,777599,36.5,"100,000+",Free,0.0,Everyone,Productivity,Negative
+App_464,Shopping,4.0,389978,80.6,"5,000,000+",Free,0.0,Mature 17+,Health & Fitness,Negative
+App_465,Education,3.6,748421,28.6,"1,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_466,Finance,,508779,21.9,"10,000,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_467,Art & Design,3.9,421918,95.8,"100,000+",Free,0.0,Teen,Communication,Neutral
+App_468,Comics,3.5,744249,1.9,"5,000,000+",Free,0.0,Mature 17+,Social,Positive
+App_469,Business,4.9,837931,99.8,"100,000+",Free,0.0,Teen,Social,Neutral
+App_470,Health & Fitness,4.6,678932,68.0,"100,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_471,Music,3.6,704690,83.0,"1,000+",Free,0.0,Mature 17+,Photography,Negative
+App_472,Tools,3.8,991220,30.2,"1,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_473,Entertainment,1.2,7199,2.4,"500,000+",Paid,5.91,Everyone,Art & Design,Negative
+App_474,Music,3.7,774074,74.0,"10,000+",Free,0.0,Everyone,Communication,Negative
+App_475,Comics,,418747,83.6,"10,000+",Paid,6.84,Teen,Food & Drink,Positive
+App_476,Food & Drink,3.4,580880,74.3,"500,000+",Paid,7.77,Teen,Art & Design,Neutral
+App_477,Social,5.0,96822,15.1,"500,000+",Free,0.0,Mature 17+,Comics,Negative
+App_478,Food & Drink,3.2,965288,75.6,"1,000,000+",Free,0.0,Teen,Art & Design,Positive
+App_479,Business,2.9,554499,77.1,"5,000,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_480,Tools,2.3,64036,66.2,"100,000+",Paid,6.59,Teen,Business,Positive
+App_481,Entertainment,,678074,76.8,"10,000,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_482,Finance,3.9,223432,84.7,"500,000+",Free,0.0,Teen,Shopping,Positive
+App_483,Business,1.8,959595,61.7,"50,000+",Free,0.0,Everyone,Communication,Neutral
+App_484,Tools,1.5,725936,9.8,"10,000+",Free,0.0,Teen,Business,Neutral
+App_485,Photography,2.7,773419,49.3,"500,000+",Free,0.0,Everyone,Communication,Negative
+App_486,Music,4.2,323164,8.7,"50,000+",Free,0.0,Everyone,Productivity,Neutral
+App_487,Business,4.0,487610,41.3,"50,000+",Free,0.0,Teen,Photography,Positive
+App_488,Music,1.2,63630,41.3,"50,000+",Paid,5.85,Mature 17+,Photography,Negative
+App_489,Art & Design,2.8,429540,7.5,"1,000,000+",Free,0.0,Mature 17+,Music,Positive
+App_490,Food & Drink,3.1,270032,35.5,"1,000,000+",Paid,7.74,Mature 17+,Entertainment,Negative
+App_491,Art & Design,3.6,552470,12.0,"10,000,000+",Free,0.0,Teen,Tools,Negative
+App_492,Health & Fitness,3.6,909819,81.0,"10,000,000+",Free,0.0,Mature 17+,Photography,Positive
+App_493,Photography,2.5,613958,94.8,"50,000+",Free,0.0,Everyone,Finance,Neutral
+App_494,Entertainment,3.2,625403,8.2,"5,000,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_495,Finance,2.9,732276,95.6,"1,000,000+",Free,0.0,Teen,Comics,Negative
+App_496,Shopping,4.5,870120,52.7,"100,000+",Free,0.0,Mature 17+,Productivity,Positive
+App_497,Music,3.1,147703,30.7,"50,000+",Free,0.0,Everyone,Music,Positive
+App_498,Finance,2.8,874872,8.6,"100,000+",Paid,7.54,Teen,Productivity,Negative
+App_499,Music,2.6,618827,50.6,"100,000+",Paid,6.66,Mature 17+,Food & Drink,Neutral
+App_500,Comics,3.3,962461,,"50,000+",Free,0.0,Teen,Education,Positive
+App_501,Business,4.2,141314,71.0,"10,000+",Free,0.0,Teen,Communication,Neutral
+App_502,Health & Fitness,3.2,639441,6.0,"5,000,000+",Free,0.0,Teen,Finance,Neutral
+App_503,Food & Drink,3.6,572743,,"50,000+",Free,0.0,Mature 17+,Finance,Negative
+App_504,Shopping,4.0,403182,40.9,"10,000,000+",Paid,4.23,Teen,Shopping,Negative
+App_505,Productivity,3.1,201239,30.2,"50,000+",Free,0.0,Mature 17+,Health & Fitness,Neutral
+App_506,Music,2.7,759094,24.0,"1,000,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_507,Finance,4.5,649814,28.8,"50,000+",Paid,4.64,Mature 17+,Education,Positive
+App_508,Health & Fitness,2.7,588415,80.5,"10,000+",Free,0.0,Everyone,Shopping,Negative
+App_509,Communication,2.8,451222,,"1,000,000+",Free,0.0,Mature 17+,Productivity,Neutral
+App_510,Shopping,5.0,159310,41.1,"10,000,000+",Free,0.0,Teen,Shopping,Positive
+App_511,Communication,1.0,92701,90.7,"1,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_512,Art & Design,1.7,30056,32.8,"1,000+",Free,0.0,Teen,Music,Negative
+App_513,Food & Drink,2.5,238440,48.2,"100,000+",Free,0.0,Everyone,Art & Design,Neutral
+App_514,Social,4.7,629185,,"5,000,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_515,Social,1.3,911449,64.4,"100,000+",Free,0.0,Teen,Food & Drink,Negative
+App_516,Productivity,1.0,912835,97.9,"10,000+",Free,0.0,Everyone,Entertainment,Positive
+App_517,Comics,1.2,469611,60.7,"500,000+",Free,0.0,Everyone,Shopping,Positive
+App_518,Finance,1.4,660899,36.4,"10,000,000+",Free,0.0,Mature 17+,Comics,Positive
+App_519,Tools,1.2,964845,65.1,"5,000,000+",Free,0.0,Everyone,Comics,Negative
+App_520,Productivity,2.9,829065,13.2,"10,000,000+",Free,0.0,Teen,Food & Drink,Neutral
+App_521,Business,3.3,421586,89.0,"1,000+",Free,0.0,Everyone,Education,Negative
+App_522,Business,2.1,603203,50.8,"100,000+",Free,0.0,Everyone,Music,Neutral
+App_523,Finance,2.6,39379,45.5,"10,000,000+",Free,0.0,Teen,Photography,Positive
+App_524,Tools,1.4,372031,59.0,"1,000+",Free,0.0,Everyone,Social,Neutral
+App_525,Entertainment,2.3,941492,62.9,"10,000+",Free,0.0,Everyone,Finance,Positive
+App_526,Comics,3.1,148802,8.1,"10,000+",Free,0.0,Everyone,Education,Positive
+App_527,Health & Fitness,3.9,61163,68.6,"500,000+",Free,0.0,Everyone,Food & Drink,Negative
+App_528,Music,1.0,773987,25.0,"10,000,000+",Free,0.0,Teen,Music,Positive
+App_529,Tools,2.9,254411,71.7,"500,000+",Free,0.0,Everyone,Music,Negative
+App_530,Social,,652284,82.4,"1,000,000+",Free,0.0,Teen,Communication,Neutral
+App_531,Shopping,4.4,690604,80.6,"5,000,000+",Free,0.0,Everyone,Business,Neutral
+App_532,Entertainment,3.9,445477,55.7,"10,000,000+",Free,0.0,Everyone,Comics,Positive
+App_533,Music,3.4,490034,52.5,"10,000+",Paid,9.72,Everyone,Food & Drink,Negative
+App_534,Music,2.1,519189,15.1,"100,000+",Free,0.0,Everyone,Tools,Positive
+App_535,Entertainment,4.6,746534,77.8,"1,000+",Free,0.0,Teen,Photography,Negative
+App_536,Art & Design,1.2,208532,27.9,"50,000+",Free,0.0,Teen,Shopping,Negative
+App_537,Communication,1.4,182151,50.2,"500,000+",Free,0.0,Teen,Finance,Negative
+App_538,Music,2.6,97761,29.1,"50,000+",Free,0.0,Mature 17+,Shopping,Neutral
+App_539,Entertainment,1.5,924583,14.2,"10,000,000+",Free,0.0,Everyone,Business,Negative
+App_540,Tools,4.8,943793,63.3,"100,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_541,Entertainment,4.2,698060,6.4,"500,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_542,Photography,2.0,452876,75.1,"50,000+",Free,0.0,Mature 17+,Tools,Neutral
+App_543,Productivity,3.4,471356,32.4,"5,000,000+",Free,0.0,Everyone,Communication,Neutral
+App_544,Education,4.9,123357,1.0,"100,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_545,Art & Design,4.5,979162,51.6,"1,000+",Free,0.0,Everyone,Business,Positive
+App_546,Food & Drink,3.4,872737,5.6,"5,000,000+",Paid,2.0,Everyone,Business,Negative
+App_547,Education,4.6,269154,28.3,"100,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_548,Productivity,5.0,975317,71.0,"1,000,000+",Paid,3.41,Teen,Productivity,Negative
+App_549,Productivity,4.0,833389,7.2,"500,000+",Free,0.0,Everyone,Finance,Negative
+App_550,Productivity,1.3,559352,84.1,"10,000+",Free,0.0,Everyone,Finance,Positive
+App_551,Education,2.6,418543,1.4,"1,000+",Free,0.0,Teen,Art & Design,Neutral
+App_552,Finance,4.4,923582,25.4,"10,000,000+",Free,0.0,Everyone,Shopping,Negative
+App_553,Communication,1.9,803685,74.3,"5,000,000+",Free,0.0,Everyone,Photography,Neutral
+App_554,Entertainment,4.3,322009,32.3,"5,000,000+",Free,0.0,Teen,Entertainment,Positive
+App_555,Shopping,1.5,754544,11.1,"50,000+",Free,0.0,Everyone,Shopping,Neutral
+App_556,Communication,1.2,632600,36.7,"500,000+",Paid,5.42,Everyone,Finance,Negative
+App_557,Social,2.5,563459,27.8,"10,000,000+",Free,0.0,Mature 17+,Photography,Negative
+App_558,Tools,1.1,113090,84.4,"10,000+",Free,0.0,Teen,Social,Negative
+App_559,Comics,4.8,69619,32.0,"100,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_560,Finance,4.3,9603,79.1,"10,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_561,Food & Drink,4.2,191875,89.3,"500,000+",Free,0.0,Mature 17+,Business,Positive
+App_562,Communication,3.5,981983,43.9,"500,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_563,Shopping,1.9,619845,91.1,"1,000,000+",Paid,8.52,Everyone,Communication,Negative
+App_564,Business,3.1,713326,38.4,"1,000,000+",Free,0.0,Mature 17+,Health & Fitness,Negative
+App_565,Productivity,3.4,148077,96.4,"10,000+",Free,0.0,Mature 17+,Tools,Negative
+App_566,Music,3.1,570226,9.8,"100,000+",Free,0.0,Mature 17+,Productivity,Neutral
+App_567,Social,2.0,911732,69.0,"10,000+",Paid,2.46,Everyone,Art & Design,Negative
+App_568,Comics,3.1,451595,49.9,"500,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_569,Art & Design,3.0,613877,39.4,"500,000+",Free,0.0,Mature 17+,Food & Drink,Neutral
+App_570,Food & Drink,5.0,26906,63.6,"50,000+",Free,0.0,Teen,Education,Neutral
+App_571,Tools,4.6,176172,70.7,"1,000,000+",Free,0.0,Teen,Art & Design,Neutral
+App_572,Comics,2.9,415484,1.4,"10,000,000+",Free,0.0,Everyone,Communication,Neutral
+App_573,Productivity,,70219,17.5,"10,000,000+",Free,0.0,Teen,Art & Design,Neutral
+App_574,Music,4.0,825246,71.6,"10,000,000+",Free,0.0,Teen,Entertainment,Positive
+App_575,Finance,1.1,185265,67.0,"50,000+",Free,0.0,Teen,Business,Neutral
+App_576,Music,4.6,841951,96.6,"1,000+",Free,0.0,Everyone,Tools,Negative
+App_577,Education,4.4,966749,76.3,"10,000,000+",Free,0.0,Teen,Education,Neutral
+App_578,Music,2.8,629820,95.1,"500,000+",Free,0.0,Everyone,Finance,Neutral
+App_579,Education,2.6,470741,70.6,"50,000+",Free,0.0,Mature 17+,Business,Neutral
+App_580,Social,2.1,879481,30.5,"10,000+",Free,0.0,Teen,Entertainment,Neutral
+App_581,Finance,2.9,471127,11.4,"1,000,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_582,Tools,1.2,920065,78.4,"1,000,000+",Free,0.0,Teen,Education,Positive
+App_583,Health & Fitness,4.4,407607,64.8,"100,000+",Free,0.0,Mature 17+,Education,Positive
+App_584,Productivity,1.1,702264,5.8,"10,000+",Paid,3.48,Everyone,Social,Neutral
+App_585,Education,2.3,863503,36.6,"100,000+",Free,0.0,Everyone,Comics,Positive
+App_586,Art & Design,4.7,880003,95.7,"50,000+",Free,0.0,Everyone,Tools,Negative
+App_587,Music,3.9,851478,50.5,"5,000,000+",Free,0.0,Mature 17+,Music,Neutral
+App_588,Music,2.1,885521,43.8,"10,000,000+",Free,0.0,Mature 17+,Tools,Negative
+App_589,Art & Design,2.0,84180,46.3,"1,000+",Free,0.0,Mature 17+,Music,Negative
+App_590,Tools,1.0,252891,21.7,"10,000+",Free,0.0,Everyone,Photography,Neutral
+App_591,Business,3.8,978936,37.5,"10,000+",Free,0.0,Mature 17+,Productivity,Negative
+App_592,Social,1.2,77894,37.6,"10,000+",Free,0.0,Teen,Business,Negative
+App_593,Entertainment,3.1,293085,6.2,"100,000+",Free,0.0,Mature 17+,Finance,Negative
+App_594,Health & Fitness,4.8,124547,77.0,"50,000+",Free,0.0,Everyone,Art & Design,Neutral
+App_595,Food & Drink,1.4,120129,42.2,"10,000+",Free,0.0,Teen,Entertainment,Neutral
+App_596,Shopping,4.6,179930,82.4,"5,000,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_597,Education,5.0,508042,85.2,"10,000+",Paid,1.58,Teen,Comics,Neutral
+App_598,Art & Design,1.2,338516,,"1,000,000+",Paid,7.34,Teen,Business,Neutral
+App_599,Shopping,4.5,562031,66.1,"10,000,000+",Free,0.0,Everyone,Productivity,Negative
+App_600,Finance,3.1,968012,47.8,"1,000+",Free,0.0,Teen,Business,Neutral
+App_601,Tools,4.6,306194,88.1,"10,000,000+",Free,0.0,Teen,Social,Positive
+App_602,Education,3.3,188021,22.4,"1,000,000+",Free,0.0,Everyone,Shopping,Neutral
+App_603,Entertainment,3.6,362744,68.1,"1,000,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_604,Shopping,,683504,61.2,"1,000+",Free,0.0,Everyone,Photography,Negative
+App_605,Finance,4.5,498785,,"5,000,000+",Free,0.0,Teen,Education,Neutral
+App_606,Comics,3.9,387832,14.5,"50,000+",Free,0.0,Teen,Finance,Negative
+App_607,Productivity,3.1,540385,65.5,"1,000,000+",Free,0.0,Teen,Productivity,Negative
+App_608,Music,4.5,866283,74.1,"50,000+",Free,0.0,Everyone,Education,Negative
+App_609,Comics,2.0,622993,32.2,"1,000,000+",Free,0.0,Mature 17+,Finance,Negative
+App_610,Education,1.6,941515,64.8,"500,000+",Free,0.0,Teen,Shopping,Negative
+App_611,Entertainment,1.6,842065,40.1,"1,000+",Paid,3.13,Mature 17+,Communication,Neutral
+App_612,Health & Fitness,2.3,344810,71.6,"1,000,000+",Free,0.0,Everyone,Food & Drink,Positive
+App_613,Shopping,2.0,750330,20.7,"500,000+",Free,0.0,Teen,Shopping,Neutral
+App_614,Social,4.7,670031,89.1,"10,000,000+",Paid,4.49,Mature 17+,Photography,Neutral
+App_615,Productivity,1.4,632643,29.5,"100,000+",Paid,4.98,Teen,Social,Neutral
+App_616,Education,3.8,784686,37.4,"500,000+",Free,0.0,Teen,Music,Neutral
+App_617,Tools,1.8,451257,6.8,"10,000+",Free,0.0,Teen,Shopping,Positive
+App_618,Art & Design,4.5,58105,12.0,"1,000,000+",Free,0.0,Mature 17+,Photography,Neutral
+App_619,Social,4.8,217422,52.1,"500,000+",Free,0.0,Everyone,Music,Negative
+App_620,Social,2.9,189884,27.5,"50,000+",Free,0.0,Teen,Finance,Neutral
+App_621,Social,4.5,567929,83.7,"100,000+",Free,0.0,Everyone,Music,Neutral
+App_622,Communication,1.0,23487,2.5,"5,000,000+",Free,0.0,Everyone,Tools,Positive
+App_623,Education,4.3,880512,38.5,"1,000,000+",Free,0.0,Mature 17+,Education,Positive
+App_624,Productivity,1.9,704368,34.4,"10,000+",Free,0.0,Mature 17+,Photography,Negative
+App_625,Music,4.6,85557,2.9,"5,000,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_626,Music,1.0,144229,13.3,"500,000+",Free,0.0,Teen,Education,Neutral
+App_627,Education,,588416,42.0,"5,000,000+",Free,0.0,Mature 17+,Finance,Neutral
+App_628,Finance,4.0,643634,49.8,"5,000,000+",Free,0.0,Teen,Productivity,Negative
+App_629,Communication,2.0,317975,41.0,"100,000+",Free,0.0,Teen,Business,Positive
+App_630,Art & Design,1.8,680318,53.6,"10,000,000+",Free,0.0,Teen,Education,Negative
+App_631,Social,1.3,179861,59.9,"5,000,000+",Paid,9.01,Everyone,Tools,Neutral
+App_632,Social,2.3,569026,2.0,"5,000,000+",Free,0.0,Teen,Music,Positive
+App_633,Education,3.2,484914,46.9,"1,000,000+",Free,0.0,Everyone,Tools,Positive
+App_634,Finance,1.5,177658,96.4,"10,000,000+",Free,0.0,Everyone,Comics,Negative
+App_635,Music,2.5,544955,52.4,"100,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_636,Music,1.0,423055,68.1,"10,000+",Free,0.0,Teen,Shopping,Positive
+App_637,Entertainment,4.3,582192,31.9,"500,000+",Free,0.0,Teen,Entertainment,Neutral
+App_638,Education,1.5,371065,77.6,"100,000+",Free,0.0,Teen,Shopping,Neutral
+App_639,Communication,2.1,3854,77.5,"100,000+",Free,0.0,Everyone,Music,Positive
+App_640,Business,1.1,551432,52.6,"1,000+",Free,0.0,Teen,Comics,Positive
+App_641,Communication,2.7,67360,97.6,"100,000+",Free,0.0,Teen,Finance,Negative
+App_642,Tools,4.4,67012,13.4,"10,000,000+",Free,0.0,Everyone,Communication,Negative
+App_643,Music,2.6,256795,2.7,"1,000+",Paid,4.69,Mature 17+,Social,Positive
+App_644,Music,1.7,533094,77.2,"500,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_645,Comics,4.0,795426,80.9,"5,000,000+",Free,0.0,Everyone,Food & Drink,Positive
+App_646,Music,4.2,935641,12.9,"1,000,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_647,Art & Design,1.7,346230,27.3,"1,000,000+",Free,0.0,Everyone,Communication,Neutral
+App_648,Food & Drink,4.1,868474,2.7,"500,000+",Free,0.0,Teen,Photography,Neutral
+App_649,Education,4.8,707072,30.0,"500,000+",Free,0.0,Teen,Art & Design,Negative
+App_650,Shopping,1.7,29825,77.5,"10,000,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_651,Communication,4.1,137098,52.3,"50,000+",Free,0.0,Teen,Music,Negative
+App_652,Food & Drink,3.8,104655,35.5,"5,000,000+",Free,0.0,Mature 17+,Photography,Negative
+App_653,Finance,2.9,261586,37.8,"500,000+",Free,0.0,Mature 17+,Photography,Neutral
+App_654,Business,1.2,796028,1.1,"100,000+",Free,0.0,Teen,Art & Design,Positive
+App_655,Art & Design,1.3,580835,30.7,"10,000,000+",Free,0.0,Teen,Education,Negative
+App_656,Productivity,4.4,888136,65.0,"1,000,000+",Free,0.0,Mature 17+,Finance,Negative
+App_657,Photography,5.0,685266,,"10,000+",Free,0.0,Teen,Tools,Neutral
+App_658,Communication,3.7,874731,84.9,"10,000,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_659,Food & Drink,2.8,565709,3.3,"1,000,000+",Free,0.0,Teen,Social,Positive
+App_660,Productivity,3.6,777501,90.0,"1,000+",Free,0.0,Teen,Business,Positive
+App_661,Business,3.4,233203,,"10,000,000+",Free,0.0,Everyone,Photography,Neutral
+App_662,Comics,2.5,982699,78.3,"1,000,000+",Paid,2.3,Teen,Communication,Negative
+App_663,Productivity,1.3,415972,46.3,"50,000+",Free,0.0,Teen,Photography,Negative
+App_664,Art & Design,4.3,55247,40.4,"10,000,000+",Free,0.0,Mature 17+,Tools,Negative
+App_665,Art & Design,2.5,615784,31.0,"10,000,000+",Free,0.0,Teen,Business,Positive
+App_666,Shopping,4.3,442982,7.5,"5,000,000+",Free,0.0,Teen,Photography,Negative
+App_667,Comics,2.0,475684,23.6,"500,000+",Free,0.0,Everyone,Art & Design,Negative
+App_668,Photography,1.0,301031,25.4,"5,000,000+",Free,0.0,Mature 17+,Tools,Neutral
+App_669,Education,1.6,244939,48.9,"10,000,000+",Free,0.0,Mature 17+,Comics,Negative
+App_670,Productivity,2.9,456262,75.0,"500,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_671,Comics,4.8,546115,47.9,"1,000,000+",Free,0.0,Teen,Tools,Negative
+App_672,Art & Design,1.4,763811,6.7,"10,000+",Free,0.0,Mature 17+,Productivity,Positive
+App_673,Art & Design,4.4,95181,95.8,"10,000+",Paid,5.71,Everyone,Finance,Negative
+App_674,Food & Drink,3.1,384965,94.3,"10,000,000+",Free,0.0,Mature 17+,Art & Design,Negative
+App_675,Music,4.3,765518,78.7,"50,000+",Free,0.0,Everyone,Health & Fitness,Neutral
+App_676,Photography,2.2,592444,,"1,000+",Free,0.0,Mature 17+,Photography,Neutral
+App_677,Productivity,4.4,658541,54.9,"1,000,000+",Free,0.0,Mature 17+,Entertainment,Neutral
+App_678,Shopping,4.1,689656,96.3,"500,000+",Free,0.0,Everyone,Communication,Negative
+App_679,Shopping,1.9,692195,8.5,"10,000,000+",Free,0.0,Mature 17+,Comics,Negative
+App_680,Productivity,1.5,760209,37.2,"1,000,000+",Free,0.0,Mature 17+,Tools,Positive
+App_681,Tools,4.5,80202,23.3,"10,000,000+",Free,0.0,Mature 17+,Comics,Negative
+App_682,Social,4.9,997182,20.4,"50,000+",Free,0.0,Teen,Business,Positive
+App_683,Business,1.1,156670,14.9,"100,000+",Free,0.0,Everyone,Business,Neutral
+App_684,Shopping,3.9,601253,62.6,"100,000+",Free,0.0,Mature 17+,Social,Neutral
+App_685,Comics,4.6,687116,78.4,"50,000+",Paid,9.66,Everyone,Productivity,Neutral
+App_686,Business,4.4,67795,58.3,"500,000+",Free,0.0,Everyone,Shopping,Positive
+App_687,Comics,4.9,431216,15.5,"5,000,000+",Free,0.0,Everyone,Music,Negative
+App_688,Finance,4.0,521708,81.3,"50,000+",Free,0.0,Mature 17+,Education,Neutral
+App_689,Art & Design,2.8,117335,64.0,"10,000,000+",Paid,6.46,Mature 17+,Health & Fitness,Negative
+App_690,Music,2.2,441017,39.4,"500,000+",Free,0.0,Everyone,Business,Negative
+App_691,Food & Drink,2.3,633165,67.7,"10,000+",Free,0.0,Teen,Business,Neutral
+App_692,Shopping,3.9,19133,26.7,"50,000+",Free,0.0,Everyone,Productivity,Positive
+App_693,Music,4.0,516509,35.2,"500,000+",Free,0.0,Teen,Entertainment,Negative
+App_694,Music,1.8,666265,91.8,"50,000+",Free,0.0,Everyone,Shopping,Neutral
+App_695,Music,4.5,691311,29.8,"50,000+",Free,0.0,Everyone,Tools,Negative
+App_696,Social,3.9,551220,47.5,"5,000,000+",Paid,9.84,Everyone,Music,Negative
+App_697,Business,3.3,194609,89.1,"5,000,000+",Free,0.0,Mature 17+,Business,Negative
+App_698,Comics,2.9,377969,71.1,"10,000,000+",Free,0.0,Teen,Productivity,Negative
+App_699,Health & Fitness,3.2,145116,7.2,"500,000+",Free,0.0,Teen,Communication,Negative
+App_700,Finance,1.6,282117,15.6,"500,000+",Free,0.0,Everyone,Entertainment,Positive
+App_701,Communication,1.8,564760,1.8,"1,000+",Paid,8.56,Mature 17+,Education,Positive
+App_702,Music,1.4,89564,63.5,"50,000+",Free,0.0,Mature 17+,Art & Design,Neutral
+App_703,Education,1.6,670839,45.3,"100,000+",Free,0.0,Teen,Tools,Positive
+App_704,Business,2.8,117422,14.3,"50,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_705,Shopping,3.1,692211,95.8,"50,000+",Free,0.0,Teen,Art & Design,Positive
+App_706,Photography,1.1,886614,53.4,"500,000+",Free,0.0,Teen,Comics,Negative
+App_707,Shopping,,745282,24.9,"50,000+",Free,0.0,Teen,Music,Negative
+App_708,Food & Drink,2.2,791642,50.6,"1,000,000+",Free,0.0,Mature 17+,Education,Neutral
+App_709,Communication,4.6,447657,68.3,"50,000+",Paid,1.31,Teen,Social,Neutral
+App_710,Health & Fitness,4.9,798619,8.5,"1,000,000+",Free,0.0,Teen,Music,Neutral
+App_711,Education,1.7,417078,28.2,"5,000,000+",Paid,6.92,Everyone,Shopping,Negative
+App_712,Shopping,2.8,869149,80.9,"100,000+",Free,0.0,Teen,Education,Positive
+App_713,Health & Fitness,1.0,624871,46.5,"10,000,000+",Free,0.0,Teen,Shopping,Positive
+App_714,Communication,3.4,523986,55.1,"500,000+",Free,0.0,Everyone,Music,Negative
+App_715,Music,3.4,533984,43.8,"50,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_716,Education,2.0,234727,5.3,"1,000,000+",Free,0.0,Mature 17+,Tools,Neutral
+App_717,Health & Fitness,3.2,631927,17.4,"1,000,000+",Free,0.0,Teen,Productivity,Neutral
+App_718,Food & Drink,,542701,45.1,"5,000,000+",Free,0.0,Mature 17+,Music,Negative
+App_719,Comics,1.6,899707,21.7,"1,000,000+",Free,0.0,Mature 17+,Food & Drink,Neutral
+App_720,Art & Design,3.6,722009,5.9,"10,000,000+",Free,0.0,Everyone,Education,Neutral
+App_721,Comics,2.3,115014,84.5,"10,000+",Free,0.0,Mature 17+,Social,Negative
+App_722,Communication,3.4,548093,98.1,"1,000+",Free,0.0,Teen,Tools,Positive
+App_723,Business,2.7,722824,79.5,"10,000,000+",Free,0.0,Everyone,Photography,Negative
+App_724,Art & Design,4.9,859977,85.5,"100,000+",Free,0.0,Teen,Art & Design,Negative
+App_725,Finance,1.6,103992,25.0,"10,000,000+",Free,0.0,Teen,Education,Negative
+App_726,Food & Drink,2.9,734105,96.1,"5,000,000+",Paid,3.57,Everyone,Comics,Negative
+App_727,Finance,3.7,264267,20.5,"5,000,000+",Free,0.0,Teen,Communication,Positive
+App_728,Social,2.6,644042,95.2,"10,000,000+",Free,0.0,Everyone,Tools,Neutral
+App_729,Education,4.9,190968,99.5,"50,000+",Free,0.0,Teen,Tools,Negative
+App_730,Productivity,3.9,80173,71.5,"10,000+",Free,0.0,Everyone,Shopping,Positive
+App_731,Art & Design,3.6,878729,98.1,"50,000+",Free,0.0,Mature 17+,Food & Drink,Neutral
+App_732,Finance,4.0,588817,57.4,"50,000+",Free,0.0,Teen,Finance,Neutral
+App_733,Shopping,4.8,104295,26.7,"10,000,000+",Paid,6.03,Everyone,Photography,Neutral
+App_734,Finance,4.6,717087,44.3,"500,000+",Free,0.0,Teen,Education,Negative
+App_735,Health & Fitness,3.9,33948,59.8,"500,000+",Free,0.0,Teen,Business,Negative
+App_736,Comics,4.0,955408,8.2,"500,000+",Free,0.0,Teen,Entertainment,Neutral
+App_737,Health & Fitness,,932983,62.6,"10,000+",Free,0.0,Everyone,Photography,Neutral
+App_738,Social,1.4,977268,98.1,"50,000+",Free,0.0,Mature 17+,Entertainment,Neutral
+App_739,Art & Design,3.3,290010,19.8,"1,000+",Free,0.0,Mature 17+,Music,Neutral
+App_740,Art & Design,1.1,68199,79.5,"100,000+",Free,0.0,Mature 17+,Music,Neutral
+App_741,Social,2.9,429376,90.9,"500,000+",Paid,3.5,Everyone,Social,Neutral
+App_742,Communication,1.8,69222,94.4,"500,000+",Free,0.0,Mature 17+,Photography,Positive
+App_743,Health & Fitness,2.4,671547,96.1,"5,000,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_744,Entertainment,4.1,573256,52.6,"50,000+",Free,0.0,Teen,Social,Negative
+App_745,Shopping,4.8,643507,97.8,"50,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_746,Photography,1.3,416541,76.0,"10,000+",Free,0.0,Mature 17+,Photography,Negative
+App_747,Comics,3.1,881818,17.0,"10,000+",Free,0.0,Everyone,Food & Drink,Neutral
+App_748,Art & Design,4.5,268887,48.2,"500,000+",Free,0.0,Teen,Food & Drink,Negative
+App_749,Communication,1.3,486375,72.1,"50,000+",Free,0.0,Everyone,Art & Design,Positive
+App_750,Productivity,4.3,298971,25.5,"1,000+",Free,0.0,Everyone,Education,Neutral
+App_751,Shopping,2.4,928609,64.4,"100,000+",Paid,4.13,Teen,Finance,Negative
+App_752,Health & Fitness,2.3,109179,67.0,"10,000,000+",Free,0.0,Everyone,Entertainment,Positive
+App_753,Comics,4.9,852229,17.1,"50,000+",Paid,9.3,Teen,Education,Positive
+App_754,Productivity,1.8,16129,56.9,"5,000,000+",Paid,2.85,Teen,Food & Drink,Negative
+App_755,Health & Fitness,3.8,246453,77.4,"10,000,000+",Free,0.0,Teen,Comics,Positive
+App_756,Finance,4.3,407542,50.4,"50,000+",Free,0.0,Everyone,Entertainment,Negative
+App_757,Productivity,1.2,194818,2.2,"1,000,000+",Free,0.0,Teen,Tools,Positive
+App_758,Social,3.7,978207,1.9,"10,000+",Free,0.0,Everyone,Education,Neutral
+App_759,Tools,4.8,422047,36.3,"5,000,000+",Free,0.0,Teen,Food & Drink,Neutral
+App_760,Communication,1.5,371702,92.7,"100,000+",Free,0.0,Teen,Communication,Neutral
+App_761,Comics,4.6,896916,23.6,"500,000+",Paid,8.86,Mature 17+,Food & Drink,Neutral
+App_762,Music,3.4,69026,63.8,"5,000,000+",Free,0.0,Mature 17+,Music,Neutral
+App_763,Tools,3.5,661457,23.0,"50,000+",Free,0.0,Mature 17+,Social,Negative
+App_764,Education,3.5,317750,32.8,"500,000+",Free,0.0,Everyone,Tools,Neutral
+App_765,Education,2.2,864761,85.0,"50,000+",Paid,1.26,Everyone,Business,Neutral
+App_766,Comics,4.7,443131,73.2,"500,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_767,Productivity,4.8,42192,10.4,"100,000+",Paid,1.81,Teen,Shopping,Neutral
+App_768,Health & Fitness,3.5,324783,43.4,"10,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_769,Communication,4.1,983681,3.9,"100,000+",Free,0.0,Teen,Tools,Neutral
+App_770,Photography,3.4,152989,48.6,"1,000,000+",Free,0.0,Everyone,Social,Neutral
+App_771,Education,2.9,693321,66.6,"1,000+",Free,0.0,Teen,Music,Negative
+App_772,Communication,3.6,537816,,"10,000+",Free,0.0,Teen,Music,Positive
+App_773,Education,3.2,175106,29.6,"100,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_774,Finance,,771015,40.4,"1,000,000+",Free,0.0,Teen,Entertainment,Neutral
+App_775,Health & Fitness,4.1,769827,92.0,"1,000+",Free,0.0,Teen,Communication,Negative
+App_776,Finance,2.9,141430,99.3,"1,000,000+",Free,0.0,Teen,Communication,Negative
+App_777,Shopping,1.2,57875,5.4,"50,000+",Paid,8.68,Everyone,Shopping,Neutral
+App_778,Education,1.7,737040,76.3,"10,000,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_779,Music,2.8,267713,37.8,"50,000+",Free,0.0,Teen,Education,Positive
+App_780,Music,3.9,291098,39.9,"500,000+",Free,0.0,Teen,Entertainment,Negative
+App_781,Finance,3.4,661716,75.7,"10,000+",Free,0.0,Mature 17+,Finance,Neutral
+App_782,Social,3.6,779546,91.9,"50,000+",Free,0.0,Teen,Finance,Negative
+App_783,Tools,2.9,76356,95.1,"5,000,000+",Free,0.0,Everyone,Health & Fitness,Negative
+App_784,Music,3.5,951541,58.1,"1,000,000+",Free,0.0,Teen,Food & Drink,Negative
+App_785,Education,2.3,361378,36.4,"10,000+",Free,0.0,Everyone,Shopping,Neutral
+App_786,Comics,2.9,657111,79.0,"10,000,000+",Free,0.0,Everyone,Entertainment,Neutral
+App_787,Finance,4.0,181460,25.8,"5,000,000+",Free,0.0,Teen,Productivity,Positive
+App_788,Shopping,4.5,346974,56.8,"50,000+",Free,0.0,Mature 17+,Entertainment,Neutral
+App_789,Photography,2.7,418367,36.5,"500,000+",Free,0.0,Everyone,Tools,Negative
+App_790,Photography,1.2,289630,66.0,"100,000+",Free,0.0,Mature 17+,Social,Negative
+App_791,Business,1.6,992658,24.8,"500,000+",Free,0.0,Teen,Education,Positive
+App_792,Tools,1.1,242734,20.0,"5,000,000+",Free,0.0,Everyone,Art & Design,Neutral
+App_793,Productivity,3.6,933788,91.9,"1,000+",Paid,6.67,Teen,Health & Fitness,Negative
+App_794,Health & Fitness,2.3,33887,11.1,"50,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_795,Music,3.2,546009,51.1,"5,000,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_796,Music,3.0,993168,22.9,"1,000+",Free,0.0,Teen,Tools,Negative
+App_797,Productivity,1.3,602372,4.9,"1,000+",Free,0.0,Everyone,Photography,Negative
+App_798,Art & Design,,453108,4.6,"1,000,000+",Free,0.0,Teen,Food & Drink,Neutral
+App_799,Shopping,,438569,18.3,"10,000+",Free,0.0,Teen,Shopping,Positive
+App_800,Entertainment,2.7,820583,86.8,"1,000,000+",Free,0.0,Teen,Music,Negative
+App_801,Finance,1.8,312055,29.0,"50,000+",Free,0.0,Everyone,Shopping,Positive
+App_802,Social,4.4,30547,95.1,"1,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_803,Shopping,1.7,128146,58.6,"10,000,000+",Free,0.0,Mature 17+,Art & Design,Negative
+App_804,Food & Drink,4.8,739390,44.2,"5,000,000+",Free,0.0,Teen,Photography,Neutral
+App_805,Music,2.7,516594,58.4,"100,000+",Free,0.0,Everyone,Productivity,Positive
+App_806,Health & Fitness,4.4,685714,52.2,"1,000+",Free,0.0,Teen,Productivity,Neutral
+App_807,Business,3.5,870577,76.1,"5,000,000+",Free,0.0,Mature 17+,Food & Drink,Neutral
+App_808,Photography,3.9,641247,29.0,"10,000,000+",Free,0.0,Everyone,Finance,Positive
+App_809,Music,4.1,188590,36.0,"100,000+",Free,0.0,Mature 17+,Shopping,Neutral
+App_810,Business,3.0,407788,89.5,"1,000,000+",Free,0.0,Mature 17+,Education,Positive
+App_811,Education,3.2,504509,94.7,"1,000,000+",Free,0.0,Everyone,Music,Negative
+App_812,Shopping,3.1,527859,89.4,"10,000+",Free,0.0,Everyone,Finance,Positive
+App_813,Education,3.4,238504,42.5,"5,000,000+",Free,0.0,Teen,Music,Positive
+App_814,Entertainment,1.1,644700,78.3,"1,000+",Free,0.0,Teen,Communication,Negative
+App_815,Comics,2.6,516695,48.2,"500,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_816,Food & Drink,3.4,751264,50.3,"1,000,000+",Free,0.0,Everyone,Photography,Negative
+App_817,Shopping,3.4,663789,21.3,"1,000,000+",Free,0.0,Everyone,Music,Negative
+App_818,Art & Design,4.2,166037,59.5,"10,000+",Free,0.0,Teen,Social,Positive
+App_819,Entertainment,3.6,46950,19.4,"100,000+",Free,0.0,Mature 17+,Business,Neutral
+App_820,Communication,5.0,316464,33.8,"10,000+",Free,0.0,Mature 17+,Health & Fitness,Neutral
+App_821,Art & Design,2.1,243406,,"10,000,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_822,Tools,2.4,93908,21.5,"1,000+",Free,0.0,Everyone,Education,Neutral
+App_823,Finance,2.5,501697,8.0,"5,000,000+",Free,0.0,Teen,Photography,Neutral
+App_824,Health & Fitness,2.9,661857,7.8,"50,000+",Paid,7.72,Teen,Art & Design,Positive
+App_825,Shopping,,229081,94.1,"50,000+",Free,0.0,Teen,Finance,Negative
+App_826,Communication,1.9,522320,51.2,"5,000,000+",Paid,2.87,Teen,Music,Negative
+App_827,Communication,4.1,690985,41.5,"100,000+",Free,0.0,Everyone,Music,Positive
+App_828,Entertainment,2.6,53172,81.3,"10,000,000+",Free,0.0,Teen,Communication,Neutral
+App_829,Productivity,3.4,745566,83.7,"1,000,000+",Free,0.0,Everyone,Health & Fitness,Negative
+App_830,Tools,3.5,608208,33.9,"100,000+",Free,0.0,Teen,Entertainment,Neutral
+App_831,Comics,2.5,477846,69.7,"1,000,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_832,Shopping,3.1,23384,77.3,"1,000,000+",Free,0.0,Everyone,Comics,Negative
+App_833,Productivity,2.7,978934,65.8,"50,000+",Free,0.0,Mature 17+,Entertainment,Negative
+App_834,Entertainment,1.3,83469,16.0,"100,000+",Paid,5.82,Teen,Shopping,Negative
+App_835,Finance,2.7,811654,87.7,"10,000,000+",Free,0.0,Teen,Music,Neutral
+App_836,Photography,1.4,916881,54.4,"10,000+",Free,0.0,Teen,Entertainment,Neutral
+App_837,Music,2.6,857085,29.0,"1,000,000+",Free,0.0,Everyone,Education,Neutral
+App_838,Music,3.4,737366,43.1,"500,000+",Free,0.0,Mature 17+,Business,Neutral
+App_839,Comics,3.3,881320,4.7,"500,000+",Free,0.0,Everyone,Music,Positive
+App_840,Finance,3.7,587200,13.7,"10,000+",Free,0.0,Everyone,Music,Negative
+App_841,Social,1.4,270243,76.8,"500,000+",Free,0.0,Teen,Business,Negative
+App_842,Comics,3.6,284680,1.0,"1,000+",Free,0.0,Mature 17+,Finance,Negative
+App_843,Shopping,2.2,829495,42.2,"1,000,000+",Free,0.0,Teen,Business,Positive
+App_844,Shopping,2.6,657556,52.7,"10,000+",Paid,7.62,Everyone,Productivity,Neutral
+App_845,Business,4.4,523256,6.4,"100,000+",Free,0.0,Teen,Entertainment,Negative
+App_846,Productivity,1.0,769197,97.3,"1,000,000+",Paid,6.64,Mature 17+,Education,Neutral
+App_847,Social,3.4,418595,23.4,"10,000+",Free,0.0,Teen,Communication,Neutral
+App_848,Music,3.4,252264,31.1,"50,000+",Free,0.0,Mature 17+,Finance,Positive
+App_849,Communication,2.6,895431,31.1,"10,000,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_850,Productivity,1.9,769705,23.8,"100,000+",Free,0.0,Teen,Communication,Neutral
+App_851,Food & Drink,1.9,288445,1.1,"10,000,000+",Free,0.0,Everyone,Art & Design,Negative
+App_852,Shopping,4.5,150887,73.2,"50,000+",Free,0.0,Teen,Art & Design,Negative
+App_853,Tools,2.8,160481,96.7,"1,000,000+",Free,0.0,Everyone,Art & Design,Positive
+App_854,Health & Fitness,2.3,670538,,"100,000+",Free,0.0,Everyone,Photography,Positive
+App_855,Finance,2.8,449930,66.6,"10,000,000+",Free,0.0,Teen,Art & Design,Positive
+App_856,Art & Design,3.7,529493,74.4,"500,000+",Free,0.0,Everyone,Education,Positive
+App_857,Comics,1.6,904198,85.0,"10,000,000+",Free,0.0,Everyone,Communication,Positive
+App_858,Shopping,2.8,357092,42.8,"10,000+",Free,0.0,Teen,Shopping,Positive
+App_859,Productivity,3.4,789371,31.0,"1,000,000+",Free,0.0,Teen,Social,Positive
+App_860,Social,4.8,69020,33.2,"1,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_861,Health & Fitness,2.0,830151,71.5,"10,000,000+",Paid,5.24,Everyone,Tools,Positive
+App_862,Tools,2.4,567209,81.9,"100,000+",Free,0.0,Mature 17+,Comics,Positive
+App_863,Productivity,2.5,650124,19.0,"100,000+",Free,0.0,Everyone,Social,Negative
+App_864,Art & Design,3.4,931097,37.7,"5,000,000+",Free,0.0,Mature 17+,Finance,Negative
+App_865,Health & Fitness,2.4,541457,90.3,"10,000,000+",Free,0.0,Teen,Photography,Neutral
+App_866,Food & Drink,3.1,505759,80.9,"1,000,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_867,Art & Design,4.1,7631,98.5,"1,000,000+",Free,0.0,Teen,Entertainment,Positive
+App_868,Entertainment,3.8,430367,75.7,"50,000+",Free,0.0,Teen,Productivity,Positive
+App_869,Education,,663196,39.9,"5,000,000+",Free,0.0,Mature 17+,Shopping,Positive
+App_870,Entertainment,4.5,663170,59.5,"10,000,000+",Free,0.0,Teen,Music,Neutral
+App_871,Music,3.2,67255,66.4,"500,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_872,Productivity,3.2,931579,8.8,"50,000+",Free,0.0,Teen,Art & Design,Negative
+App_873,Shopping,1.1,586812,54.9,"5,000,000+",Paid,9.63,Everyone,Food & Drink,Positive
+App_874,Shopping,4.9,307847,71.2,"10,000,000+",Free,0.0,Everyone,Tools,Positive
+App_875,Shopping,1.5,940856,17.6,"10,000,000+",Free,0.0,Teen,Music,Positive
+App_876,Tools,1.9,474113,78.3,"50,000+",Free,0.0,Teen,Comics,Neutral
+App_877,Education,1.2,132603,58.8,"500,000+",Free,0.0,Mature 17+,Food & Drink,Neutral
+App_878,Entertainment,3.6,730063,,"5,000,000+",Paid,7.08,Everyone,Productivity,Negative
+App_879,Education,1.9,692941,5.2,"10,000,000+",Free,0.0,Mature 17+,Communication,Positive
+App_880,Photography,1.7,879105,27.3,"10,000,000+",Paid,9.16,Teen,Food & Drink,Positive
+App_881,Productivity,1.4,665017,60.6,"5,000,000+",Free,0.0,Teen,Photography,Positive
+App_882,Education,1.4,992575,30.4,"1,000+",Free,0.0,Mature 17+,Art & Design,Positive
+App_883,Communication,3.3,365546,71.7,"50,000+",Free,0.0,Teen,Comics,Neutral
+App_884,Comics,3.8,655622,76.1,"50,000+",Free,0.0,Everyone,Entertainment,Negative
+App_885,Comics,2.6,952346,11.1,"100,000+",Paid,7.56,Mature 17+,Tools,Negative
+App_886,Communication,2.9,19775,51.9,"500,000+",Free,0.0,Everyone,Tools,Neutral
+App_887,Health & Fitness,3.7,74097,51.4,"10,000+",Free,0.0,Everyone,Health & Fitness,Positive
+App_888,Business,1.1,148187,37.6,"1,000+",Free,0.0,Everyone,Business,Negative
+App_889,Tools,2.3,967661,93.4,"5,000,000+",Free,0.0,Mature 17+,Photography,Negative
+App_890,Health & Fitness,4.9,950195,82.9,"5,000,000+",Free,0.0,Teen,Art & Design,Neutral
+App_891,Art & Design,3.3,486899,70.0,"5,000,000+",Free,0.0,Everyone,Tools,Positive
+App_892,Social,2.0,519449,71.7,"1,000+",Free,0.0,Everyone,Music,Negative
+App_893,Tools,3.1,755778,46.7,"10,000,000+",Free,0.0,Everyone,Comics,Positive
+App_894,Tools,2.4,141005,92.2,"5,000,000+",Paid,7.61,Teen,Communication,Negative
+App_895,Art & Design,3.1,270140,69.8,"5,000,000+",Free,0.0,Teen,Photography,Neutral
+App_896,Education,1.5,426288,73.2,"500,000+",Free,0.0,Mature 17+,Education,Positive
+App_897,Entertainment,1.5,311977,86.3,"1,000,000+",Free,0.0,Teen,Comics,Neutral
+App_898,Entertainment,1.6,775823,28.1,"1,000,000+",Free,0.0,Mature 17+,Shopping,Negative
+App_899,Comics,4.8,566188,80.9,"100,000+",Free,0.0,Mature 17+,Music,Neutral
+App_900,Finance,3.9,96144,20.3,"100,000+",Free,0.0,Mature 17+,Photography,Neutral
+App_901,Health & Fitness,1.6,267591,,"5,000,000+",Free,0.0,Mature 17+,Business,Neutral
+App_902,Photography,1.8,714523,34.2,"500,000+",Paid,1.71,Mature 17+,Business,Negative
+App_903,Productivity,3.9,489166,97.9,"5,000,000+",Free,0.0,Everyone,Finance,Positive
+App_904,Music,1.6,658103,85.8,"100,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_905,Food & Drink,1.9,303029,70.4,"1,000+",Free,0.0,Everyone,Music,Positive
+App_906,Entertainment,4.9,805213,73.0,"1,000+",Free,0.0,Mature 17+,Business,Negative
+App_907,Productivity,2.0,967630,56.6,"10,000,000+",Free,0.0,Teen,Finance,Positive
+App_908,Food & Drink,3.6,366108,94.8,"10,000+",Paid,4.23,Everyone,Finance,Neutral
+App_909,Productivity,4.9,933496,50.1,"1,000,000+",Paid,8.72,Everyone,Photography,Neutral
+App_910,Education,2.5,833831,38.7,"500,000+",Paid,3.08,Mature 17+,Finance,Neutral
+App_911,Food & Drink,1.1,17173,17.1,"50,000+",Paid,2.03,Everyone,Comics,Neutral
+App_912,Music,2.0,888836,78.8,"1,000,000+",Free,0.0,Everyone,Productivity,Neutral
+App_913,Productivity,4.3,555070,73.7,"50,000+",Free,0.0,Everyone,Finance,Neutral
+App_914,Communication,4.5,753258,39.1,"10,000+",Free,0.0,Everyone,Art & Design,Negative
+App_915,Music,4.1,752354,3.5,"10,000+",Free,0.0,Everyone,Music,Negative
+App_916,Food & Drink,1.5,910834,84.1,"5,000,000+",Free,0.0,Mature 17+,Art & Design,Negative
+App_917,Music,4.2,407605,2.1,"100,000+",Free,0.0,Mature 17+,Education,Positive
+App_918,Productivity,4.7,115459,70.7,"10,000+",Free,0.0,Everyone,Tools,Positive
+App_919,Business,3.4,925531,97.1,"10,000+",Free,0.0,Mature 17+,Business,Negative
+App_920,Productivity,4.8,965934,44.3,"50,000+",Free,0.0,Mature 17+,Health & Fitness,Positive
+App_921,Productivity,4.3,66807,24.3,"100,000+",Free,0.0,Teen,Tools,Positive
+App_922,Education,3.7,251451,,"10,000+",Free,0.0,Everyone,Finance,Neutral
+App_923,Health & Fitness,3.3,470770,81.9,"1,000,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_924,Communication,2.4,238611,55.1,"10,000,000+",Free,0.0,Mature 17+,Communication,Positive
+App_925,Photography,1.6,235818,96.7,"10,000+",Free,0.0,Everyone,Business,Positive
+App_926,Entertainment,3.4,589816,6.1,"10,000,000+",Free,0.0,Teen,Education,Negative
+App_927,Tools,2.3,50701,51.0,"100,000+",Free,0.0,Everyone,Communication,Positive
+App_928,Art & Design,4.5,995069,72.1,"5,000,000+",Free,0.0,Teen,Productivity,Neutral
+App_929,Health & Fitness,5.0,395855,86.4,"500,000+",Free,0.0,Everyone,Shopping,Positive
+App_930,Art & Design,4.0,495579,18.7,"100,000+",Free,0.0,Everyone,Art & Design,Negative
+App_931,Education,1.4,635875,80.2,"50,000+",Free,0.0,Everyone,Productivity,Neutral
+App_932,Communication,2.2,678129,,"500,000+",Free,0.0,Everyone,Food & Drink,Neutral
+App_933,Shopping,1.4,464284,40.3,"1,000,000+",Free,0.0,Teen,Comics,Neutral
+App_934,Productivity,3.6,413960,14.0,"1,000+",Free,0.0,Teen,Social,Neutral
+App_935,Shopping,4.1,412061,86.7,"10,000,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_936,Shopping,4.7,252024,16.6,"10,000,000+",Free,0.0,Everyone,Communication,Negative
+App_937,Social,2.8,783541,31.7,"10,000,000+",Free,0.0,Teen,Health & Fitness,Positive
+App_938,Comics,4.6,814760,29.7,"100,000+",Free,0.0,Teen,Finance,Positive
+App_939,Shopping,4.5,523494,87.3,"10,000,000+",Free,0.0,Teen,Health & Fitness,Neutral
+App_940,Entertainment,2.3,249530,67.6,"5,000,000+",Free,0.0,Everyone,Music,Negative
+App_941,Business,4.5,427837,79.9,"10,000,000+",Free,0.0,Mature 17+,Comics,Neutral
+App_942,Comics,2.5,122888,25.8,"50,000+",Free,0.0,Teen,Art & Design,Positive
+App_943,Education,2.2,621627,62.9,"1,000,000+",Free,0.0,Everyone,Education,Positive
+App_944,Tools,3.6,551316,57.6,"10,000,000+",Free,0.0,Teen,Comics,Neutral
+App_945,Health & Fitness,2.3,280566,83.5,"10,000,000+",Free,0.0,Teen,Entertainment,Positive
+App_946,Business,3.5,451030,90.7,"500,000+",Free,0.0,Mature 17+,Food & Drink,Positive
+App_947,Music,3.4,350140,2.2,"1,000,000+",Free,0.0,Teen,Photography,Neutral
+App_948,Food & Drink,3.3,62392,67.7,"10,000,000+",Free,0.0,Teen,Shopping,Positive
+App_949,Social,2.5,553443,6.1,"100,000+",Paid,3.92,Everyone,Communication,Negative
+App_950,Business,3.2,305135,55.3,"10,000+",Free,0.0,Everyone,Education,Neutral
+App_951,Photography,3.4,606300,29.5,"5,000,000+",Free,0.0,Mature 17+,Education,Negative
+App_952,Shopping,3.2,662048,31.4,"100,000+",Free,0.0,Everyone,Communication,Positive
+App_953,Education,2.8,352780,35.9,"1,000+",Free,0.0,Everyone,Communication,Positive
+App_954,Finance,1.1,268548,62.5,"100,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_955,Food & Drink,3.3,531733,34.1,"500,000+",Free,0.0,Teen,Communication,Positive
+App_956,Art & Design,1.7,160472,73.5,"500,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_957,Entertainment,3.6,941863,41.0,"10,000,000+",Paid,2.97,Everyone,Education,Neutral
+App_958,Art & Design,4.0,91106,7.8,"100,000+",Free,0.0,Mature 17+,Business,Neutral
+App_959,Business,3.0,932956,78.6,"500,000+",Free,0.0,Teen,Business,Neutral
+App_960,Tools,3.2,129450,29.3,"10,000+",Paid,9.32,Mature 17+,Health & Fitness,Neutral
+App_961,Art & Design,,688825,43.8,"1,000,000+",Free,0.0,Everyone,Business,Negative
+App_962,Photography,4.4,805978,68.9,"100,000+",Paid,8.8,Everyone,Entertainment,Neutral
+App_963,Education,4.7,788868,33.9,"5,000,000+",Free,0.0,Mature 17+,Business,Negative
+App_964,Music,4.3,848564,6.6,"10,000+",Free,0.0,Teen,Education,Positive
+App_965,Tools,1.4,206587,38.0,"10,000,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_966,Health & Fitness,1.6,97952,94.5,"1,000,000+",Free,0.0,Teen,Productivity,Positive
+App_967,Entertainment,3.1,492192,64.5,"5,000,000+",Paid,5.49,Teen,Finance,Neutral
+App_968,Photography,2.0,138693,67.5,"10,000,000+",Free,0.0,Mature 17+,Tools,Negative
+App_969,Photography,,727167,63.6,"5,000,000+",Free,0.0,Teen,Finance,Negative
+App_970,Art & Design,2.6,678941,20.7,"10,000,000+",Free,0.0,Everyone,Shopping,Negative
+App_971,Shopping,3.2,280718,42.4,"5,000,000+",Free,0.0,Mature 17+,Entertainment,Positive
+App_972,Art & Design,4.0,177932,75.3,"1,000,000+",Free,0.0,Teen,Music,Neutral
+App_973,Business,3.9,842250,11.0,"10,000+",Free,0.0,Everyone,Education,Positive
+App_974,Health & Fitness,3.1,306873,28.5,"5,000,000+",Free,0.0,Mature 17+,Art & Design,Negative
+App_975,Comics,4.3,45332,28.4,"5,000,000+",Free,0.0,Everyone,Productivity,Positive
+App_976,Tools,2.7,348788,43.8,"50,000+",Free,0.0,Everyone,Tools,Negative
+App_977,Art & Design,4.6,460485,98.1,"100,000+",Free,0.0,Everyone,Comics,Negative
+App_978,Education,1.3,783401,7.7,"1,000,000+",Free,0.0,Teen,Health & Fitness,Negative
+App_979,Finance,4.8,312913,52.4,"10,000,000+",Free,0.0,Mature 17+,Tools,Neutral
+App_980,Entertainment,3.6,209193,18.8,"1,000,000+",Free,0.0,Mature 17+,Social,Neutral
+App_981,Productivity,2.5,331428,97.1,"500,000+",Free,0.0,Teen,Art & Design,Negative
+App_982,Art & Design,1.8,703405,12.2,"10,000,000+",Free,0.0,Mature 17+,Education,Positive
+App_983,Education,2.9,13240,41.0,"1,000,000+",Free,0.0,Everyone,Business,Positive
+App_984,Tools,1.8,388712,74.1,"10,000+",Free,0.0,Mature 17+,Communication,Neutral
+App_985,Education,1.7,607845,70.8,"10,000,000+",Free,0.0,Teen,Social,Negative
+App_986,Entertainment,3.5,538745,42.9,"10,000,000+",Free,0.0,Everyone,Social,Positive
+App_987,Comics,3.1,523475,35.3,"1,000,000+",Free,0.0,Teen,Photography,Negative
+App_988,Education,3.7,111772,40.4,"10,000,000+",Free,0.0,Everyone,Art & Design,Positive
+App_989,Finance,4.7,330917,27.2,"50,000+",Free,0.0,Everyone,Comics,Neutral
+App_990,Education,3.1,646061,21.3,"100,000+",Paid,1.54,Mature 17+,Music,Negative
+App_991,Education,3.3,590021,48.8,"10,000,000+",Free,0.0,Everyone,Finance,Negative
+App_992,Education,1.4,732403,27.6,"100,000+",Free,0.0,Teen,Music,Positive
+App_993,Music,3.9,620499,29.5,"1,000,000+",Paid,7.42,Mature 17+,Tools,Positive
+App_994,Music,2.6,864790,66.0,"5,000,000+",Free,0.0,Teen,Comics,Positive
+App_995,Comics,4.9,406240,96.9,"1,000+",Free,0.0,Everyone,Communication,Negative
+App_996,Art & Design,4.3,69386,60.8,"1,000+",Free,0.0,Teen,Business,Neutral
+App_997,Education,3.1,93369,,"5,000,000+",Free,0.0,Teen,Comics,Neutral
+App_998,Social,1.5,258735,8.5,"5,000,000+",Paid,6.6,Everyone,Health & Fitness,Positive
+App_999,Health & Fitness,4.4,74171,95.2,"5,000,000+",Paid,9.72,Mature 17+,Comics,Neutral
+App_1000,Social,4.2,450642,30.4,"10,000+",Free,0.0,Teen,Photography,Positive
